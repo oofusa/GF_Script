@@ -1,0 +1,4 @@
+﻿to capture testsuite, testcase, function, option
+	put testsuite &"_"& testcase &"_"& function &"_"& option into filename
+	CaptureScreen (Name: filename &"_"& short seconds)
+end capture

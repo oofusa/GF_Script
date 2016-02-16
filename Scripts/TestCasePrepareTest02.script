@@ -1,0 +1,216 @@
+﻿to Headerimage
+	TestCommon.menu("TestCasePrepareTest02/PrepareTestBtn")
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/HeaderImageTitle")), "エリア選択（テスト勉強）", "ヘッダー画像", "切り替え前",5
+	tap Image:"TestCasePrepareTest02/HeaderImage", WaitFor: 10
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/HeaderImageTitle")), "エリア選択（テスト勉強）", "ヘッダー画像", "切り替え確認",5
+end Headerimage
+
+to GotoStudy01
+	TestCommon.menu("TestCasePrepareTest02/PrepareTestBtn")
+	tap Image:"TestCasePrepareTest02/GotoStudy", WaitFor: 10
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/PrepareTestHeader")), "エリア選択（テスト勉強）", "テスト勉強しに行く", "遷移確認",6
+end GotoStudy01
+
+to Formation01
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	TestCommon.scrollTap "TestCasePrepareTest02/Formation01", 10 , 5
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/PrepareTestHeader")), "エリア選択（テスト勉強）", "お勉強ガールズの編成", "遷移確認",7
+end Formation01
+
+to Episode01
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	TestCommon.scrollTap "TestCasePrepareTest02/Episode01", 10 , 5
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/EpisodeHeader")), "エリア選択（テスト勉強）", "エピソード0/00", "遷移確認",8
+end Episode01
+
+to RankandBonus
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 10 times
+		if ImageFound(5, "TestCasePrepareTest02/RankandBonus")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/RankandbonusTitle")), "エリア選択（テスト勉強）", "お勉強ランクとボーナス", "遷移確認",9
+end RankandBonus
+
+to SkillandCheer
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 10 times
+		if ImageFound(5, "TestCasePrepareTest02/SkillandCheer")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/SkillandCheerTitle")), "エリア選択（テスト勉強）", "スキルと声援効果", "遷移確認",10
+end SkillandCheer
+
+to BasichowtoPlay
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 10 times
+		if ImageFound(5, "TestCasePrepareTest02/SkillandCheer")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	
+	repeat 5 times
+		if ImageFound(5, "TestCasePrepareTest02/BasichowtoPlay")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/BasichowtoPlayTitle")), "エリア選択（テスト勉強）", "基本の遊び方", "遷移確認",11
+end BasichowtoPlay
+
+to rewardTab
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 10 times
+		if ImageFound(5, "TestCasePrepareTest02/Reward")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/RewardList")), "エリア選択（テスト勉強）", "ごほうびタブ", "遷移確認",12
+end rewardTab
+
+to Formation02
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 10 times
+		if ImageFound(5, "TestCasePrepareTest02/Formation02")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/PrepareTestHeader")), "エリア選択（テスト勉強）", "お勉強ガールズを編成する", "遷移確認",13
+end Formation02
+
+to Episode02
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5, "TestCasePrepareTest02/Episode02")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 3
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/EpisodeHeader")), "エリア選択（テスト勉強）", "エピソードを見に行く", "遷移確認",14
+end Episode02
+
+to Recommendedterminal
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5, "TestCasePrepareTest02/Recommendedterminal")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 5
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/RecommendedterminalContent")), "エリア選択（テスト勉強）", "推奨端末について", "遷移確認",15
+end Recommendedterminal
+
+to help
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5, "TestCasePrepareTest02/Help")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 5
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/helpTitle")), "エリア選択（テスト勉強）", "ヘルプはこちら", "遷移確認",16
+end help
+
+to GotoStudy02
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5, "TestCasePrepareTest02/GotoStudy")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 5
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/PrepareTestHeader")), "エリア選択（テスト勉強）", "テスト勉強しにいく", "遷移確認",17
+end GotoStudy02
+
+to mypage
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5,"TestCasePrepareTest02/mypagebtn")
+			tap FoundImageLocation()
+			wait 5
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 30
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 5
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "MainMenuOnTop") and ImageFound(5, "TestCommonHeader/CupidBtn") and ImageFound(5, "TestCommonHeader/OffensivePower")), "エリア選択（テスト勉強）", "マイページへ", "遷移確認",18
+end mypage
+
+to PageTop
+	TestCommon.menu "TestCasePrepareTest02/PrepareTestBtn"
+	repeat 15 times
+		if ImageFound(5, "TestCasePrepareTest02/PageTop")
+			tap FoundImageLocation()
+			wait 3
+			exit Repeat 
+		else
+			Set the SwipeSpeed to 10
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+			wait 5
+		end if
+	End repeat
+	TestCommon.result (ImageFound(5, "TestCasePrepareTest02/HeaderImageTitle")), "エリア選択（テスト勉強）", "ページ上部へ", "遷移確認",19
+end PageTop
+
+
+
+

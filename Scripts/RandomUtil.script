@@ -1,0 +1,19 @@
+﻿function nihongo (size)
+	put "あいうえおかきくけこさしすせそたちつてとなにぬねのはひふへほまみむめもやゆよらりるれろわをん" into moji
+	put "" into result
+	repeat size times
+		put  any character of moji & result into result
+	end repeat
+	
+	return result
+end nihongo
+
+function alphabet (size)
+	put "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ" into alphabet
+	put "" into result
+	repeat size times
+		put  any character of alphabet & result into result
+	end repeat
+	
+	return result
+end alphabet

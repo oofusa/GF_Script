@@ -1,0 +1,33 @@
+﻿function getTestCases
+	set include to ("TestCase")
+	set exclude to ("Basic")
+	set path to my directory
+	set list to ()
+	
+	repeat with each item file of (item 1 delimited by "."  of each item of  (the files in path)  where each ends with ".script") 
+		// 両方に入った場合は拒否される
+		if accept(include, file) and not decline(exclude, file)
+			insert file into list
+		end if
+	end repeat
+	return list
+	
+end getTestCases
+
+function accept include, file
+	repeat with each item name of include
+		if offset(name, file) > 0 
+			return true
+		end if
+	end repeat
+	return false
+end accept
+
+function decline exclude, file
+	repeat with each item name of exclude
+		if offset(name, file) > 0 
+			return true
+		end if
+	end repeat
+	return false
+end decline

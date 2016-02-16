@@ -1,0 +1,66 @@
+﻿to voiceCheck
+	if ImageFound(5, "TestCommonHeader/VoiceOff")
+		tap FoundImageLocation()
+		if ImageFound(5, "TestCommonHeader/VoiceOn")
+			tap FoundImageLocation()
+			if ImageFound(5, "TestCommonHeader/VoiceOff")
+				return true
+			end if
+		end if
+	else if ImageFound(5, "TestCommonHeader/VoiceOn")
+		tap FoundImageLocation()
+		if ImageFound(5, "TestCommonHeader/VoiceOff")
+			tap FoundImageLocation()
+			if ImageFound(5, "TestCommonHeader/VoiceOn")
+				tap FoundImageLocation()
+				wait 3
+				return true
+			end if
+		end if
+	end if
+	return false
+end voiceCheck
+
+to myPage
+	tap Image:"TestCommonHeader/MyPage", WaitFor: 10
+	
+	// ポップアップを閉じる
+	if ImageFound(5, "TestCommonHeader/PopPiledUpHeader")
+		tap FoundImageLocation()
+	end if
+	
+	if ImageFound(5, "MainMenuOnTop") and ImageFound(5, "TestCommonHeader/CupidBtn") and ImageFound(5, "TestCommonHeader/OffensivePower")
+		return true
+	end if
+	return false
+end myPage
+
+to event
+	tap Image:"TestCommonHeader/EventBtn", WaitFor: 10
+	wait 5
+	
+	repeat for 120 seconds
+		if imagefound(image:"MainScreenHeader", waitfor:1)
+			exit repeat
+		else if imagefound(image:"TestCommonHeader/PopPiledUpHeader", waitfor:1)
+			tap FoundImageLocation()
+		else 
+			tap (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+		end if
+	end repeat
+	
+	// イベント判定の確認をヘッダーを見ることにしている
+	if ImageFound(5, "MainScreenHeader") 
+		return true
+	end if
+	return false
+end event
+
+to menu
+	tap Image:"TestCommonHeader/MenuBtn", WaitFor: 10
+	
+	if ImageFound(5, "TestCommonHeader/MenuHeader") 
+		return true
+	end if
+	return false
+end menu

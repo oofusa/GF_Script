@@ -1,0 +1,55 @@
+﻿function init 
+	try
+		tapHomeBtn
+		tapHistoryBtn
+		tap (500, 1500)
+		wait 3
+		
+		return true
+	catch e
+		return false
+	end try
+end init
+
+function unlock
+	SwipeDown (100, RemoteScreenSize().y / 3)
+	wait 1
+end unlock
+
+function findApp image1
+	try
+		TapHomeBtn
+		TapAppBtn
+		
+		repeat 3 times 
+			if ImageFound(Image:image1, WaitFor:5)
+				return FoundImageLocation()
+			end if
+			SwipeLeft (RemoteScreenSize().x -100, RemoteScreenSize().y / 2)
+			wait 3
+		end repeat
+		return FoundImageLocation()
+		catch e
+		return empty
+	end try
+end findApp
+
+function closeApp image1
+	// do nothing in Device_XperiaZ3
+end closeApp
+
+to tapHistoryBtn
+	tap (850, 1845) 
+	wait 3
+end tapHistoryBtn
+
+to tapHomeBtn
+	tap (550, 1850)
+	wait 3
+end tapHomeBtn
+
+to tapAppBtn
+	tap (550, 1650)
+	wait 3
+end tapAppBtn
+

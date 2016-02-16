@@ -1,0 +1,20 @@
+﻿to voiceCheck
+	TestCommon.menu "TestCasePrepareTest01/PrepareTestBtn"
+	TestCommon.result testcommonHeader.voiceCheck(),"エリア選択（テスト勉強）", "VOICEタップ", "On・Off切り替え",1
+end voiceCheck
+
+
+to myPage
+	TestCommon.menu("TestCasePrepareTest01/PrepareTestBtn")
+	TestCommon.result testcommonHeader.myPage(),"エリア選択（テスト勉強）", "マイページ", "遷移確認",2
+end myPage
+
+to event
+	TestCommon.menu("TestCasePrepareTest01/PrepareTestBtn")
+	TestCommon.result testcommonHeader.event(),"エリア選択（テスト勉強）", "イベント", "遷移確認",3
+end event
+
+to menu
+	TestCommon.menu("TestCasePrepareTest01/PrepareTestBtn")
+	TestCommon.result testcommonHeader.menu(),"エリア選択（テスト勉強）", "メニュー", "遷移確認",4
+end menu

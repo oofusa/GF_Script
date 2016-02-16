@@ -1,0 +1,33 @@
+﻿to start testSuite,device, appIcon, closeBtn
+	put testSuite.getTestCases() into list
+	put true into judge
+	repeat with each item testcase of list
+		
+		repeat with each item handlerFullName of handlerNames(testcase)
+			split handlerFullName by " "
+			put the last item of handlerFullName into handlerName
+			try
+				doRun testSuite,device, appIcon, closeBtn, testcase, handlerName
+			catch e
+				LogUtil.write "error", testSuite, testcase, handlerName, false
+				CaptureUtil.capture testSuite, testcase, handlerName
+				log e
+				put false into judge
+			end try
+		end repeat
+	end repeat
+	return judge
+end start 
+
+to doRun testSuite,device, appIcon, closeBtn, testcase, handlerName
+	Set the SwipeSpeed to 40
+	MobileManager.init device
+	put MobileManager.findApp(device, appIcon) into location
+	tap location
+	wait 7
+	run testcase's (handlerName) device
+	wait 5
+	put MobileManager.closeApp(device,closeBtn)
+	wait 5
+end doRun
+
