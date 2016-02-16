@@ -1,0 +1,40 @@
+﻿to gfCoin
+	tap Image:"TestCommonFooter/GFCoinBtn", WaitFor: 10
+	if ImageFound(5, "TestCommonFooter/StoreHeader") 
+		return true
+	end if
+	return false
+end gfCoin
+
+to gotoSchoolBtn
+	tap Image:"TestCommonFooter/GotoSchoolBtn", WaitFor: 10
+	if ImageFound(5, "TestCommonFooter/AreaSelectHeader") 
+		return true
+	end if
+	return false
+end gotoSchoolBtn
+
+to battle
+	tap Image:"TestCommonFooter/BattleBtn", WaitFor: 10
+	if ImageFound(5, "TestCommonFooter/BattleHeader") 
+		return true
+	end if
+	return false
+end battle
+
+to cupid
+	tap Image:"TestCommonFooter/CupidBtn", WaitFor: 10
+	if ImageFound(5, "TestCommonFooter/CupidHeader") 
+		return true
+	end if
+	return false
+end cupid
+
+to yell
+	tap Image:"TestCommonFooter/YellBtn", WaitFor: 10
+	if ImageFound(5, "TestCommonFooter/YellHeader") 
+		return true
+	end if
+	return false
+end yell
+

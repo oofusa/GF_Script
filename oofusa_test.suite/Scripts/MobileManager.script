@@ -1,0 +1,19 @@
+﻿to init device
+	put device.init(closeBtn) into result
+	return result
+end init
+
+to unlock device
+	put device.unlock() into result
+	return result
+end unlock
+
+function findApp device,icon
+	put device.findApp(icon) into location
+	return location
+end findApp
+
+function closeApp device,icon
+	put device.closeApp(icon) into location
+	return location
+end closeApp

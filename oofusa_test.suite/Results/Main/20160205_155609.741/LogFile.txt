@@ -1,0 +1,404 @@
+﻿2016-02-05 15:56:09.742 +0900	START		Running Main.script
+2016-02-05 15:56:10.133 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_XperiaZ3.script
+2016-02-05 15:56:11.178 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 15:56:11.286 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:56:14.379 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 15:56:17.477 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 15:56:20.586 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:56:23.686 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 15:56:27.248 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 15:56:27.411 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 15:56:39.545 +0900	imagefound	BasicTestCase/GameStart	Unable to Find Image BasicTestCase/GameStart	2	on_login	BasicTestCase.script
+2016-02-05 15:56:45.537 +0900	imagefound	BasicTestCase/DoLogin	Unable to Find Image BasicTestCase/DoLogin	8	on_login	BasicTestCase.script
+2016-02-05 15:56:51.664 +0900	imagefound	BasicTestCase/DoLogin	Unable to Find Image BasicTestCase/DoLogin	8	on_login	BasicTestCase.script
+2016-02-05 15:56:57.562 +0900	imagefound	BasicTestCase/DoLogin	Unable to Find Image BasicTestCase/DoLogin	8	on_login	BasicTestCase.script
+2016-02-05 15:56:58.133 +0900	imagefound	GoToSchool	found at (530, 1360)	14	on_login	BasicTestCase.script
+2016-02-05 15:56:58.226 +0900	tap		at (530, 1360)	15	on_login	BasicTestCase.script
+2016-02-05 15:57:01.872 +0900	imagefound	MainMenuOnTop	found at (922, 317)	18	on_login	BasicTestCase.script
+2016-02-05 15:57:01.890 +0900	Log		result:Basic,Basic,login,True	2	on_write	LogUtil.script
+2016-02-05 15:57:13.127 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 15:57:13.236 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:57:16.336 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 15:57:19.426 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 15:57:22.535 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:57:25.633 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 15:57:29.247 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 15:57:29.396 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 15:57:36.406 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 15:57:36.961 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 15:57:37.044 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 15:57:40.303 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 15:57:43.857 +0900	imagefound	TestCasePrepareTest01/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 15:57:43.939 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 15:57:48.942 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 15:57:49.388 +0900	tap	TestCommonHeader/EventBtn	at (790, 302)	2	function_event	TestCommonHeader.script
+2016-02-05 15:57:54.965 +0900	imagefound	MainScreenHeader	found at (775, 324)	6	function_event	TestCommonHeader.script
+2016-02-05 15:57:55.572 +0900	imagefound	MainScreenHeader	found at (775, 324)	16	function_event	TestCommonHeader.script
+2016-02-05 15:57:55.649 +0900	Log		result:エリア選択（テスト勉強）,イベント,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 15:57:56.209 +0900	capturescreen	エリア選択（テスト勉強）_イベント_遷移確認__476348275.668.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 15:57:56.214 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 15:58:06.289 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 15:58:06.396 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:58:09.494 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 15:58:12.590 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 15:58:15.703 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:58:18.799 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 15:58:22.359 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 15:58:22.530 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 15:58:29.536 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 15:58:30.192 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 15:58:30.282 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 15:58:33.728 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 15:58:37.067 +0900	imagefound	TestCasePrepareTest01/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 15:58:37.155 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 15:58:42.159 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 15:58:42.464 +0900	tap	TestCommonHeader/MyPage	at (584, 305)	2	function_mypage	TestCommonHeader.script
+2016-02-05 15:58:47.723 +0900	imagefound	TestCommonHeader/PopPiledUpHeader	Unable to Find Image TestCommonHeader/PopPiledUpHeader within 5.00 seconds	5	function_mypage	TestCommonHeader.script
+2016-02-05 15:58:48.003 +0900	imagefound	MainMenuOnTop	found at (922, 317)	9	function_mypage	TestCommonHeader.script
+2016-02-05 15:58:48.186 +0900	imagefound	TestCommonHeader/CupidBtn	found at (216, 1460)	9	function_mypage	TestCommonHeader.script
+2016-02-05 15:58:48.357 +0900	imagefound	TestCommonHeader/OffensivePower	found at (701, 1265)	9	function_mypage	TestCommonHeader.script
+2016-02-05 15:58:48.431 +0900	Log		result:エリア選択（テスト勉強）,マイページ,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 15:58:48.671 +0900	capturescreen	エリア選択（テスト勉強）_マイページ_遷移確認__476348328.463.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 15:58:48.677 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 15:58:58.781 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 15:58:58.913 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:59:02.006 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 15:59:05.102 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 15:59:08.223 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:59:11.321 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 15:59:14.885 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 15:59:14.987 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 15:59:21.996 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 15:59:22.595 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 15:59:22.678 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 15:59:26.104 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 15:59:29.390 +0900	imagefound	TestCasePrepareTest01/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 15:59:29.477 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 15:59:34.482 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 15:59:35.523 +0900	tap	TestCommonHeader/MenuBtn	at (980, 303)	2	function_menu	TestCommonHeader.script
+2016-02-05 15:59:37.649 +0900	imagefound	TestCommonHeader/MenuHeader	found at (187, 335)	4	function_menu	TestCommonHeader.script
+2016-02-05 15:59:37.752 +0900	Log		result:エリア選択（テスト勉強）,メニュー,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 15:59:38.577 +0900	capturescreen	エリア選択（テスト勉強）_メニュー_遷移確認__476348377.785.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 15:59:38.583 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 15:59:48.637 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 15:59:48.762 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 15:59:51.854 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 15:59:54.942 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 15:59:58.052 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:00:01.150 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:00:04.742 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:00:04.900 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:00:11.903 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:00:12.338 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:00:12.427 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:00:15.690 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:00:19.291 +0900	imagefound	TestCasePrepareTest01/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:00:19.375 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:00:24.380 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:00:25.571 +0900	imagefound	TestCommonHeader/VoiceOff	found at (101, 303)	2	function_voicecheck	TestCommonHeader.script
+2016-02-05 16:00:25.659 +0900	tap		at (101, 303)	3	function_voicecheck	TestCommonHeader.script
+2016-02-05 16:00:26.975 +0900	imagefound	TestCommonHeader/VoiceOn	found at (101, 303)	4	function_voicecheck	TestCommonHeader.script
+2016-02-05 16:00:27.060 +0900	tap		at (101, 303)	5	function_voicecheck	TestCommonHeader.script
+2016-02-05 16:00:27.578 +0900	imagefound	TestCommonHeader/VoiceOff	found at (101, 303)	6	function_voicecheck	TestCommonHeader.script
+2016-02-05 16:00:27.625 +0900	Log		result:エリア選択（テスト勉強）,VOICEタップ,On・Off切り替え,True	2	on_write	LogUtil.script
+2016-02-05 16:00:28.217 +0900	capturescreen	エリア選択（テスト勉強）_VOICEタップ_On・Off切り替え__476348427.641.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:00:28.228 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:00:38.314 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:00:38.419 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:00:41.512 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:00:44.610 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:00:47.724 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:00:50.821 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:00:54.395 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:00:54.503 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:01:01.511 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:01:02.495 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:01:02.584 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:01:05.817 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:01:09.377 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:01:09.464 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:01:14.472 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:01:14.490 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:01:19.797 +0900	imagefound	TestCasePrepareTest02/SkillandCheer	Unable to Find Image TestCasePrepareTest02/SkillandCheer within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:01:20.676 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:01:25.869 +0900	imagefound	TestCasePrepareTest02/SkillandCheer	Unable to Find Image TestCasePrepareTest02/SkillandCheer within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:01:26.776 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:01:32.223 +0900	imagefound	TestCasePrepareTest02/SkillandCheer	Unable to Find Image TestCasePrepareTest02/SkillandCheer within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:01:33.134 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:01:33.356 +0900	imagefound	TestCasePrepareTest02/SkillandCheer	found at (844, 1316)	4	on_scrolltap	TestCommon.script
+2016-02-05 16:01:33.927 +0900	tap		at (844, 1316)	5	on_scrolltap	TestCommon.script
+2016-02-05 16:01:38.934 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:01:44.130 +0900	imagefound	TestCasePrepareTest02/SkillandCheerTitle	Unable to Find Image TestCasePrepareTest02/SkillandCheerTitle within 5.00 seconds	4	on_skillandcheer	TestCasePrepareTest02.script
+2016-02-05 16:01:44.169 +0900	Log		result:エリア選択（テスト勉強）,スキルと声援効果,遷移確認,False	2	on_write	LogUtil.script
+2016-02-05 16:01:44.982 +0900	capturescreen	エリア選択（テスト勉強）_スキルと声援効果_遷移確認__476348504.204.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:01:44.989 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:01:55.045 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:01:55.168 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:01:58.268 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:02:01.364 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:02:04.473 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:02:07.567 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:02:11.132 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:02:11.284 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:02:18.295 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:02:18.910 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:02:19.003 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:02:22.539 +0900	tap	MainMenuOnTop	at (922, 320)	8	on_menu	TestCommon.script
+2016-02-05 16:02:26.094 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:02:26.182 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:02:31.185 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:02:31.203 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:02:31.566 +0900	imagefound	TestCasePrepareTest02/GotoStudy	found at (541, 1245)	4	on_scrolltap	TestCommon.script
+2016-02-05 16:02:31.652 +0900	tap		at (541, 1245)	5	on_scrolltap	TestCommon.script
+2016-02-05 16:02:36.659 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:02:37.241 +0900	imagefound	TestCasePrepareTest02/PrepareTestHeader	found at (514, 431)	4	on_gotostudy02	TestCasePrepareTest02.script
+2016-02-05 16:02:37.300 +0900	Log		result:エリア選択（テスト勉強）,ヘルプはこちら,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 16:02:38.028 +0900	capturescreen	エリア選択（テスト勉強）_ヘルプはこちら_遷移確認__476348557.316.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:02:38.035 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:02:48.139 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:02:48.238 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:02:51.339 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:02:54.436 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:02:57.548 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:03:00.647 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:03:04.040 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:03:04.180 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:03:11.186 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:03:11.744 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:03:11.833 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:03:15.453 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:03:19.015 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:03:19.102 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:03:24.106 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:03:24.132 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:03:29.250 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:03:30.100 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:03:35.205 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:03:36.090 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:03:41.207 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:03:42.111 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:03:47.228 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:03:48.109 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:03:53.635 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:03:54.525 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:03:59.975 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:04:00.869 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:04:06.066 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:04:06.958 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:04:12.603 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:04:13.488 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:04:19.131 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	Unable to Find Image TestCasePrepareTest02/Recommendedterminal within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:04:20.005 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:04:20.127 +0900	imagefound	TestCasePrepareTest02/Recommendedterminal	found at (508, 1489)	4	on_scrolltap	TestCommon.script
+2016-02-05 16:04:20.793 +0900	tap		at (508, 1489)	5	on_scrolltap	TestCommon.script
+2016-02-05 16:04:25.801 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:04:30.964 +0900	imagefound	TestCasePrepareTest02/RecommendedterminalContent	Unable to Find Image TestCasePrepareTest02/RecommendedterminalContent within 5.00 seconds	4	on_rekommendedterminal	TestCasePrepareTest02.script
+2016-02-05 16:04:31.007 +0900	Log		result:エリア選択（テスト勉強）,推奨端末について,遷移確認,False	2	on_write	LogUtil.script
+2016-02-05 16:04:31.812 +0900	capturescreen	エリア選択（テスト勉強）_推奨端末について_遷移確認__476348671.025.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:04:31.819 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:04:41.872 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:04:41.967 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:04:45.065 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:04:48.157 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:04:51.277 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:04:54.414 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:04:58.004 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:04:58.174 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:05:05.180 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:05:05.751 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:05:05.836 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:05:09.241 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:05:12.791 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:05:12.880 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:05:17.885 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:05:17.908 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:05:23.196 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:24.065 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:29.271 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:30.162 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:35.490 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:36.417 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:41.606 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:42.517 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:47.690 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:48.601 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:53.714 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:05:54.628 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:05:59.802 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:06:00.715 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:06:05.969 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:06:06.868 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:06:12.000 +0900	imagefound	TestCasePrepareTest02/help	Unable to Find Image TestCasePrepareTest02/help within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:06:12.880 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:06:13.576 +0900	imagefound	TestCasePrepareTest02/help	found at (768, 1342)	4	on_scrolltap	TestCommon.script
+2016-02-05 16:06:13.672 +0900	tap		at (768, 1342)	5	on_scrolltap	TestCommon.script
+2016-02-05 16:06:18.679 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:06:19.276 +0900	imagefound	TestCasePrepareTest02/helpTitle	found at (548, 533)	4	on_help	TestCasePrepareTest02.script
+2016-02-05 16:06:19.338 +0900	Log		result:エリア選択（テスト勉強）,ヘルプはこちら,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 16:06:20.140 +0900	capturescreen	エリア選択（テスト勉強）_ヘルプはこちら_遷移確認__476348779.355.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:06:20.147 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:06:30.198 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:06:30.318 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:06:33.414 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:06:36.510 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:06:39.622 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:06:42.718 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:06:46.276 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:06:46.382 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:06:53.391 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:06:53.906 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:06:53.992 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:06:57.339 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:07:00.674 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:07:00.766 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:07:05.774 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:07:05.804 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:07:10.960 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:11.836 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:16.965 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:17.877 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:23.205 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:24.104 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:29.476 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:30.380 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:35.783 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:36.685 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:41.916 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:42.796 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:47.931 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:48.807 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:07:54.005 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:07:54.864 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:08:00.026 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:08:00.897 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:08:06.164 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlay	Unable to Find Image TestCasePrepareTest02/BasichowtoPlay within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:08:07.053 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:08:07.055 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:08:12.253 +0900	imagefound	TestCasePrepareTest02/BasichowtoPlayTitle	Unable to Find Image TestCasePrepareTest02/BasichowtoPlayTitle within 5.00 seconds	4	on_basichowtoplay	TestCasePrepareTest02.script
+2016-02-05 16:08:12.277 +0900	Log		result:エリア選択（テスト勉強）,基本の遊び方,遷移確認,False	2	on_write	LogUtil.script
+2016-02-05 16:08:13.053 +0900	capturescreen	エリア選択（テスト勉強）_基本の遊び方_遷移確認__476348892.33.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:08:13.061 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:08:23.119 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:08:23.236 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:08:26.337 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:08:29.434 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:08:32.542 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:08:35.642 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:08:39.181 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:08:39.291 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:08:46.302 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:08:46.875 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:08:46.964 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:08:50.389 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:08:53.943 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:08:54.031 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:08:59.034 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:08:59.061 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:09:04.219 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:05.102 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:10.229 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:11.120 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:16.336 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:17.245 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:22.738 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:23.620 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:28.744 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:29.636 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:35.230 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:36.130 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:41.290 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:42.184 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:47.638 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:48.522 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:53.664 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:09:54.519 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:09:59.631 +0900	imagefound	TestCasePrepareTest02/mypagebtn	Unable to Find Image TestCasePrepareTest02/mypagebtn within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:10:00.501 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:10:00.504 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:10:05.829 +0900	imagefound	MainMenuOnTop	Unable to Find Image MainMenuOnTop within 5.00 seconds	4	on_mypage	TestCasePrepareTest02.script
+2016-02-05 16:10:11.052 +0900	imagefound	TestCommonHeader/CupidBtn	Unable to Find Image TestCommonHeader/CupidBtn within 5.00 seconds	4	on_mypage	TestCasePrepareTest02.script
+2016-02-05 16:10:16.241 +0900	imagefound	TestCommonHeader/OffensivePower	Unable to Find Image TestCommonHeader/OffensivePower within 5.00 seconds	4	on_mypage	TestCasePrepareTest02.script
+2016-02-05 16:10:16.292 +0900	Log		result:エリア選択（テスト勉強）,マイページへ,遷移確認,False	2	on_write	LogUtil.script
+2016-02-05 16:10:17.075 +0900	capturescreen	エリア選択（テスト勉強）_マイページへ_遷移確認__476349016.308.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:10:17.081 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:10:27.146 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:10:27.248 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:10:30.344 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:10:33.496 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:10:36.608 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:10:39.705 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:10:43.241 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:10:43.359 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:10:50.369 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:10:50.926 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:10:51.017 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:10:54.796 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:10:58.358 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:10:58.442 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:11:03.446 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:11:03.476 +0900	set		SWIPESPEED = 5	2	on_scrolltap	TestCommon.script
+2016-02-05 16:11:08.907 +0900	imagefound	TestCasePrepareTest02/RankandBonus	Unable to Find Image TestCasePrepareTest02/RankandBonus within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:11:09.823 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:11:14.928 +0900	imagefound	TestCasePrepareTest02/RankandBonus	Unable to Find Image TestCasePrepareTest02/RankandBonus within 5.00 seconds	4	on_scrolltap	TestCommon.script
+2016-02-05 16:11:15.813 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	9	on_scrolltap	TestCommon.script
+2016-02-05 16:11:16.689 +0900	imagefound	TestCasePrepareTest02/RankandBonus	found at (537, 1490)	4	on_scrolltap	TestCommon.script
+2016-02-05 16:11:16.773 +0900	tap		at (537, 1490)	5	on_scrolltap	TestCommon.script
+2016-02-05 16:11:21.781 +0900	set		SWIPESPEED = 40	12	on_scrolltap	TestCommon.script
+2016-02-05 16:11:22.340 +0900	imagefound	TestCasePrepareTest02/RankandbonusTitle	found at (537, 1490)	4	on_rankandbonus	TestCasePrepareTest02.script
+2016-02-05 16:11:22.399 +0900	Log		result:エリア選択（テスト勉強）,お勉強ランクとボーナス,遷移確認,True	2	on_write	LogUtil.script
+2016-02-05 16:11:23.130 +0900	capturescreen	エリア選択（テスト勉強）_お勉強ランクとボーナス_遷移確認__476349082.416.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:11:23.136 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:11:33.190 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:11:33.309 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:11:36.406 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:11:39.499 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 16:11:42.617 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:11:45.716 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 16:11:49.270 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 16:11:49.381 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 16:11:56.388 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 16:11:57.132 +0900	imagefound	GoToSchool	found at (530, 1360)	3	on_menu	TestCommon.script
+2016-02-05 16:11:57.220 +0900	tap		at (530, 1360)	4	on_menu	TestCommon.script
+2016-02-05 16:12:00.562 +0900	tap	MainMenuOnTop	at (922, 317)	8	on_menu	TestCommon.script
+2016-02-05 16:12:04.110 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 16:12:04.199 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 16:12:09.206 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 16:12:14.348 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:14.349 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:15.215 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:20.562 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:20.563 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:21.473 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:26.712 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:26.714 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:27.610 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:32.885 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:32.886 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:33.798 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:39.388 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:39.389 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:40.283 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:45.741 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:45.742 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:46.582 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:51.772 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:51.773 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:52.654 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:57.802 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:57.803 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:12:58.691 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:04.024 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:04.025 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:04.867 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:10.464 +0900	imagefound	TestCasePrepareTest02/PageTop	Unable to Find Image TestCasePrepareTest02/PageTop within 5.00 seconds	4	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:10.465 +0900	set		SWIPESPEED = 5	9	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:11.366 +0900	swipeup		Swiped up from (540, 960) to (540, 576)	10	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:16.482 +0900	imagefound	TestCasePrepareTest02/PrepareTestHeader	Unable to Find Image TestCasePrepareTest02/PrepareTestHeader within 5.00 seconds	13	on_pagetop	TestCasePrepareTest02.script
+2016-02-05 16:13:16.491 +0900	Log		result:エリア選択（テスト勉強）,ページ上部へ,遷移確認,False	2	on_write	LogUtil.script
+2016-02-05 16:13:16.832 +0900	capturescreen	エリア選択（テスト勉強）_ページ上部へ_遷移確認__476349196.541.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 16:13:16.842 +0900	set		SWIPESPEED = 40	4	on_result	TestCommon.script
+2016-02-05 16:13:26.892 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 16:13:27.017 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 16:13:30.114 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 16:13:33.006 +0900	EndTestCase		(Duration:"1043.262369", Errors:"1", Exceptions:"0", StartTime:"2016-02-05 15:56:09 +0900", Successes:"0", TestCase:"Main.script", Warnings:"0")
+2016-02-05 16:13:33.007 +0900	ABORTED		Execution Time 0:17:23 Main.script

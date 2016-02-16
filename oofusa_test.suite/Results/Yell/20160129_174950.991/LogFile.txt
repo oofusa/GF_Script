@@ -1,0 +1,11 @@
+﻿2016-01-29 17:49:50.993 +0900	START		Running Yell.script
+2016-01-29 17:49:51.792 +0900	imagefound	Yell	found at (974, 1648)	1	on_yell	Yell.script
+2016-01-29 17:49:51.882 +0900	tap		at (974, 1648)	2	on_yell	Yell.script
+2016-01-29 17:49:51.883 +0900	Log		テスト勉強	3	on_yell	Yell.script
+2016-01-29 17:49:51.885 +0900	Log		エール	3	on_yell	Yell.script
+2016-01-29 17:49:51.886 +0900	Log		True	3	on_yell	Yell.script
+2016-01-29 17:49:55.885 +0900	capturescreen	エール.tiff		8	on_yell	Yell.script
+2016-01-29 17:50:01.753 +0900	imagefound	Returnbtn	found at (636, 156)	10	on_yell	Yell.script
+2016-01-29 17:50:01.844 +0900	tap		at (636, 156)	11	on_yell	Yell.script
+2016-01-29 17:50:07.113 +0900	EndTestCase		(Duration:"16.118098", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:49:50 +0900", Successes:"1", TestCase:"Yell.script", Warnings:"0")
+2016-01-29 17:50:07.178 +0900	SUCCESS		Execution Time 0:00:16 Yell.script

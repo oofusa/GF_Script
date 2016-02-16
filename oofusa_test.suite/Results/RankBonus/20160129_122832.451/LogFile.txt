@@ -1,0 +1,10 @@
+﻿2016-01-29 12:28:32.453 +0900	START		Running RankBonus.script
+2016-01-29 12:28:33.694 +0900	swipeup	test	Swiped up from (526, 1248) to (526, 576)	1	on_rankbonus	RankBonus.script
+2016-01-29 12:28:34.529 +0900	swipeup	Episode	Swiped up from (211, 484) to (211, 576)	2	on_rankbonus	RankBonus.script
+2016-01-29 12:28:34.621 +0900	imagefound	Rank	found at (537, 884)	4	on_rankbonus	RankBonus.script
+2016-01-29 12:28:35.320 +0900	tap		at (537, 884)	5	on_rankbonus	RankBonus.script
+2016-01-29 12:28:35.321 +0900	Log		テスト勉強	6	on_rankbonus	RankBonus.script
+2016-01-29 12:28:35.323 +0900	Log		お勉強ランク	6	on_rankbonus	RankBonus.script
+2016-01-29 12:28:35.324 +0900	Log		True	6	on_rankbonus	RankBonus.script
+2016-01-29 12:28:35.452 +0900	EndTestCase		(Duration:"2.997065", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 12:28:32 +0900", Successes:"1", TestCase:"RankBonus.script", Warnings:"0")
+2016-01-29 12:28:35.465 +0900	SUCCESS		Execution Time 0:00:03 RankBonus.script

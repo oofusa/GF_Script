@@ -1,0 +1,35 @@
+﻿2016-01-28 18:15:47.403 +0900	START		Running prepareTest.script
+2016-01-28 18:15:47.834 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 18:15:55.317 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 18:15:55.406 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 18:15:58.254 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 18:16:01.502 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.590 +0900	imagefound	PrepareTestHeader	found at (508, 430)	11	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.591 +0900	Log		メニュー	12	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.593 +0900	Log		テスト勉強する	12	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.643 +0900	Log		正常系	12	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.661 +0900	Log		True	12	on_preparetest	prepareTest.script
+2016-01-28 18:16:06.890 +0900	capturescreen	テスト勉強TOP.tiff		16	on_preparetest	prepareTest.script
+2016-01-28 18:16:12.458 +0900	imagefound	VoiceON	found at (99, 305)	19	on_preparetest	prepareTest.script
+2016-01-28 18:16:12.545 +0900	tap		at (99, 305)	20	on_preparetest	prepareTest.script
+2016-01-28 18:16:12.547 +0900	Log		VoiceON	21	on_preparetest	prepareTest.script
+2016-01-28 18:16:12.548 +0900	Log		True	21	on_preparetest	prepareTest.script
+2016-01-28 18:16:12.943 +0900	capturescreen	VoiceON.tiff		25	on_preparetest	prepareTest.script
+2016-01-28 18:16:13.443 +0900	imagefound	VoiceOFF	found at (99, 302)	27	on_preparetest	prepareTest.script
+2016-01-28 18:16:13.530 +0900	tap		at (99, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 18:16:13.532 +0900	Log		VoiceOFF	29	on_preparetest	prepareTest.script
+2016-01-28 18:16:13.534 +0900	Log		True	29	on_preparetest	prepareTest.script
+2016-01-28 18:16:14.114 +0900	capturescreen	VoiceOFF.tiff		33	on_preparetest	prepareTest.script
+2016-01-28 18:16:19.479 +0900	tap	mypagebtn	at (588, 306)	36	on_preparetest	prepareTest.script
+2016-01-28 18:16:24.701 +0900	tap	MainMenu	at (923, 304)	38	on_preparetest	prepareTest.script
+2016-01-28 18:16:29.095 +0900	tap	PrepareTest	at (268, 626)	39	on_preparetest	prepareTest.script
+2016-01-28 18:16:34.336 +0900	tap	iventbtn	at (787, 302)	41	on_preparetest	prepareTest.script
+2016-01-28 18:16:39.702 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	43	on_preparetest	prepareTest.script
+2016-01-28 18:16:40.649 +0900	tap	PrepareTest	at (268, 626)	44	on_preparetest	prepareTest.script
+2016-01-28 18:16:45.880 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	46	on_preparetest	prepareTest.script
+2016-01-28 18:16:51.816 +0900	tap	Closebtn	at (928, 325)	48	on_preparetest	prepareTest.script
+2016-01-28 18:17:03.130 +0900	imagefound	shina	Unable to Find Image shina	51	on_preparetest	prepareTest.script
+2016-01-28 18:17:09.800 +0900	imagefound	chloe	Unable to Find Image chloe	55	on_preparetest	prepareTest.script
+2016-01-28 18:17:15.261 +0900	imagefound	sakurai	Unable to Find Image sakurai	59	on_preparetest	prepareTest.script
+2016-01-28 18:17:20.177 +0900	EndTestCase		(Duration:"92.771764", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 18:15:47 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 18:17:20.178 +0900	ABORTED		Execution Time 0:01:32 prepareTest.script

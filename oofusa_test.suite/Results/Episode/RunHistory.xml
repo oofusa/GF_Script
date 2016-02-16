@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Episode">
+ <run>
+  <RunDate>2016-02-01 17:45:59.837 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>24.142959</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160201_174559.837/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-02-01 17:46:54.858 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>22.905774</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160201_174654.858/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-02-01 17:47:26.776 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>23.214607</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160201_174726.776/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,82 @@
+﻿2016-01-28 18:40:23.683 +0900	START		Running prepareTest.script
+2016-01-28 18:40:24.883 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 18:40:32.887 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 18:40:32.974 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 18:40:36.056 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 18:40:38.672 +0900	tap	PrepareTest	at (868, 452)	9	on_preparetest	prepareTest.script
+2016-01-28 18:40:43.956 +0900	imagefound	PrepareTestHeader	found at (508, 430)	11	on_preparetest	prepareTest.script
+2016-01-28 18:40:43.956 +0900	Log		メニュー	12	on_preparetest	prepareTest.script
+2016-01-28 18:40:43.958 +0900	Log		テスト勉強する	12	on_preparetest	prepareTest.script
+2016-01-28 18:40:44.006 +0900	Log		True	12	on_preparetest	prepareTest.script
+2016-01-28 18:40:44.236 +0900	capturescreen	テスト勉強TOP.tiff		16	on_preparetest	prepareTest.script
+2016-01-28 18:40:49.547 +0900	imagefound	VoiceON	found at (99, 305)	19	on_preparetest	prepareTest.script
+2016-01-28 18:40:49.637 +0900	tap		at (99, 305)	20	on_preparetest	prepareTest.script
+2016-01-28 18:40:49.639 +0900	Log		VoiceON	21	on_preparetest	prepareTest.script
+2016-01-28 18:40:49.641 +0900	Log		True	21	on_preparetest	prepareTest.script
+2016-01-28 18:40:50.257 +0900	capturescreen	ボイスON.tiff		25	on_preparetest	prepareTest.script
+2016-01-28 18:40:50.537 +0900	imagefound	VoiceOFF	found at (99, 302)	27	on_preparetest	prepareTest.script
+2016-01-28 18:40:50.624 +0900	tap		at (99, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 18:40:50.626 +0900	Log		VoiceOFF	29	on_preparetest	prepareTest.script
+2016-01-28 18:40:50.628 +0900	Log		True	29	on_preparetest	prepareTest.script
+2016-01-28 18:40:51.048 +0900	capturescreen	ボイスOFF.tiff		33	on_preparetest	prepareTest.script
+2016-01-28 18:40:56.983 +0900	imagefound	mypagebtn	found at (588, 306)	36	on_preparetest	prepareTest.script
+2016-01-28 18:40:57.076 +0900	tap		at (588, 306)	37	on_preparetest	prepareTest.script
+2016-01-28 18:40:57.077 +0900	Log		テスト勉強	38	on_preparetest	prepareTest.script
+2016-01-28 18:40:57.079 +0900	Log		マイページ	38	on_preparetest	prepareTest.script
+2016-01-28 18:40:57.080 +0900	Log		True	38	on_preparetest	prepareTest.script
+2016-01-28 18:40:57.677 +0900	capturescreen	マイページ画面.tiff		42	on_preparetest	prepareTest.script
+2016-01-28 18:41:02.926 +0900	tap	MainMenu	at (923, 304)	45	on_preparetest	prepareTest.script
+2016-01-28 18:41:04.119 +0900	tap	PrepareTest	at (868, 455)	46	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.272 +0900	imagefound	iventbtn	found at (787, 302)	49	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.355 +0900	tap		at (787, 302)	50	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.356 +0900	Log		テスト勉強	51	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.357 +0900	Log		イベント	51	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.357 +0900	Log		True	51	on_preparetest	prepareTest.script
+2016-01-28 18:41:09.632 +0900	capturescreen	イベント画面.tiff		55	on_preparetest	prepareTest.script
+2016-01-28 18:41:14.979 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	58	on_preparetest	prepareTest.script
+2016-01-28 18:41:15.938 +0900	tap	PrepareTest	at (268, 626)	59	on_preparetest	prepareTest.script
+2016-01-28 18:41:21.157 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	62	on_preparetest	prepareTest.script
+2016-01-28 18:41:26.633 +0900	tap	Closebtn	at (928, 325)	64	on_preparetest	prepareTest.script
+2016-01-28 18:41:37.087 +0900	imagefound	shina	Unable to Find Image shina	67	on_preparetest	prepareTest.script
+2016-01-28 18:41:42.467 +0900	imagefound	chloe	Unable to Find Image chloe	71	on_preparetest	prepareTest.script
+2016-01-28 18:41:47.592 +0900	imagefound	sakurai	Unable to Find Image sakurai	75	on_preparetest	prepareTest.script
+2016-01-28 18:41:52.595 +0900	imagefound	murakami	Unable to Find Image murakami	79	on_preparetest	prepareTest.script
+2016-01-28 18:41:57.701 +0900	imagefound	monochrome	Unable to Find Image monochrome	83	on_preparetest	prepareTest.script
+2016-01-28 18:42:02.827 +0900	imagefound	shigino	Unable to Find Image shigino	87	on_preparetest	prepareTest.script
+2016-01-28 18:42:07.781 +0900	imagefound	himejima	Unable to Find Image himejima	91	on_preparetest	prepareTest.script
+2016-01-28 18:42:12.642 +0900	imagefound	shiranui	Unable to Find Image shiranui	95	on_preparetest	prepareTest.script
+2016-01-28 18:42:18.761 +0900	imagefound	tomura	Unable to Find Image tomura	99	on_preparetest	prepareTest.script
+2016-01-28 18:42:24.820 +0900	imagefound	shinonome	Unable to Find Image shinonome	103	on_preparetest	prepareTest.script
+2016-01-28 18:42:30.923 +0900	imagefound	kamijo	Unable to Find Image kamijo	107	on_preparetest	prepareTest.script
+2016-01-28 18:42:36.824 +0900	imagefound	tokitani	Unable to Find Image tokitani	111	on_preparetest	prepareTest.script
+2016-01-28 18:42:42.901 +0900	imagefound	kohinata	Unable to Find Image kohinata	115	on_preparetest	prepareTest.script
+2016-01-28 18:42:48.896 +0900	imagefound	sasahara	Unable to Find Image sasahara	119	on_preparetest	prepareTest.script
+2016-01-28 18:42:53.849 +0900	imagefound	tamai	Unable to Find Image tamai	123	on_preparetest	prepareTest.script
+2016-01-28 18:42:59.553 +0900	imagefound	TestStart	found at (537, 1245)	127	on_preparetest	prepareTest.script
+2016-01-28 18:42:59.645 +0900	tap		at (537, 1245)	128	on_preparetest	prepareTest.script
+2016-01-28 18:42:59.647 +0900	Log		テスト勉強	129	on_preparetest	prepareTest.script
+2016-01-28 18:42:59.649 +0900	Log		テスト勉強しにいく	129	on_preparetest	prepareTest.script
+2016-01-28 18:42:59.650 +0900	Log		True	129	on_preparetest	prepareTest.script
+2016-01-28 18:43:00.054 +0900	capturescreen	テスト勉強しにいく画面.tiff		133	on_preparetest	prepareTest.script
+2016-01-28 18:43:01.658 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	135	on_preparetest	prepareTest.script
+2016-01-28 18:43:03.146 +0900	tap	PrepareTest	at (268, 644)	136	on_preparetest	prepareTest.script
+2016-01-28 18:43:08.861 +0900	swipeup	test	Swiped up from (526, 1245) to (526, 576)	139	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.435 +0900	imagefound	Organization	found at (322, 1209)	141	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.654 +0900	tap		at (322, 1209)	142	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.655 +0900	Log		テスト勉強	143	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.657 +0900	Log		ガールズの編成	143	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.659 +0900	Log		True	143	on_preparetest	prepareTest.script
+2016-01-28 18:43:09.878 +0900	capturescreen	ガールズの編成画面.tiff		147	on_preparetest	prepareTest.script
+2016-01-28 18:43:12.848 +0900	tap	MainMenuOnHeaderBar	at (981, 283)	149	on_preparetest	prepareTest.script
+2016-01-28 18:43:14.523 +0900	tap	PrepareTest	at (266, 635)	150	on_preparetest	prepareTest.script
+2016-01-28 18:43:19.884 +0900	swipeup	test	Swiped up from (526, 1243) to (526, 576)	153	on_preparetest	prepareTest.script
+2016-01-28 18:43:20.492 +0900	imagefound	Episode	found at (211, 1349)	155	on_preparetest	prepareTest.script
+2016-01-28 18:43:20.670 +0900	tap		at (211, 1349)	156	on_preparetest	prepareTest.script
+2016-01-28 18:43:20.672 +0900	Log		テスト勉強	157	on_preparetest	prepareTest.script
+2016-01-28 18:43:20.674 +0900	Log		エピソード	157	on_preparetest	prepareTest.script
+2016-01-28 18:43:20.675 +0900	Log		True	157	on_preparetest	prepareTest.script
+2016-01-28 18:43:21.008 +0900	capturescreen	エピソード画面.tiff		161	on_preparetest	prepareTest.script
+2016-01-28 18:43:22.633 +0900	tap	MainMenuOnHeaderBar	at (981, 284)	163	on_preparetest	prepareTest.script
+2016-01-28 18:43:23.564 +0900	tap	PrepareTest	at (267, 639)	164	on_preparetest	prepareTest.script
+2016-01-28 18:43:28.660 +0900	EndTestCase		(Duration:"184.974805", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 18:40:23 +0900", Successes:"1", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 18:43:28.726 +0900	SUCCESS		Execution Time 0:03:04 prepareTest.script

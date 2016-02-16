@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TestCasePrepareTest01">
+ <run>
+  <RunDate>2016-02-04 11:42:44.838 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>0.002824</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160204_114244.838/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

@@ -1,0 +1,21 @@
+﻿2016-02-01 17:28:50.027 +0900	START		Running prepareTestMainScript.script
+2016-02-01 17:28:51.133 +0900	tap	homeicon	at (137, 611)	1	on_login	Login.script
+2016-02-01 17:29:06.869 +0900	imagefound	Brawser	Unable to Find Image Brawser	4	on_login	Login.script
+2016-02-01 17:29:22.215 +0900	imagefound	startbtn	Unable to Find Image startbtn	8	on_login	Login.script
+2016-02-01 17:29:35.720 +0900	imagefound	idpasslogin	Unable to Find Image idpasslogin	12	on_login	Login.script
+2016-02-01 17:29:49.427 +0900	imagefound	Amebaidloginbtn	Unable to Find Image Amebaidloginbtn	16	on_login	Login.script
+2016-02-01 17:30:02.953 +0900	imagefound	Amebaid	Unable to Find Image Amebaid	20	on_login	Login.script
+2016-02-01 17:30:13.090 +0900	imagefound	mojibtn	Unable to Find Image mojibtn	24	on_login	Login.script
+2016-02-01 17:30:21.993 +0900	imagefound	password	Unable to Find Image password	31	on_login	Login.script
+2016-02-01 17:30:37.394 +0900	imagefound	loginbtn	Unable to Find Image loginbtn	37	on_login	Login.script
+2016-02-01 17:30:48.383 +0900	imagefound	Start	found at (534, 1361)	41	on_login	Login.script
+2016-02-01 17:30:48.473 +0900	tap		at (534, 1361)	42	on_login	Login.script
+2016-02-01 17:30:48.650 +0900	imagefound	homebtn	found at (451, 162)	44	on_login	Login.script
+2016-02-01 17:30:49.266 +0900	tap		at (451, 162)	45	on_login	Login.script
+2016-02-01 17:30:54.358 +0900	tap		at (451, 162)	47	on_login	Login.script
+2016-02-01 17:30:59.446 +0900	tap		at (451, 162)	49	on_login	Login.script
+2016-02-01 17:31:04.529 +0900	tap		at (451, 162)	51	on_login	Login.script
+2016-02-01 17:31:05.427 +0900	tap	MainMenu	at (923, 304)	3	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:31:31.440 +0900	Exception	PrepareTest	No Image Found On Screen: "PrepareTest"	4	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:31:31.616 +0900	EndTestCase		(Duration:"161.587109", Errors:"1", Exceptions:"1", StartTime:"2016-02-01 17:28:50 +0900", Successes:"0", TestCase:"prepareTestMainScript.script", Warnings:"0")
+2016-02-01 17:31:31.841 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "PrepareTest" -- Execution Time 0:02:41 prepareTestMainScript.script

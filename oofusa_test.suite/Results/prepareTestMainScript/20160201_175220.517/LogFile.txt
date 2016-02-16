@@ -1,0 +1,95 @@
+﻿2016-02-01 17:52:20.519 +0900	START		Running prepareTestMainScript.script
+2016-02-01 17:52:21.669 +0900	tap	homeicon	at (137, 611)	1	on_login	Login.script
+2016-02-01 17:52:37.548 +0900	imagefound	Brawser	Unable to Find Image Brawser	4	on_login	Login.script
+2016-02-01 17:52:52.682 +0900	imagefound	startbtn	Unable to Find Image startbtn	8	on_login	Login.script
+2016-02-01 17:53:05.791 +0900	imagefound	idpasslogin	Unable to Find Image idpasslogin	12	on_login	Login.script
+2016-02-01 17:53:18.938 +0900	imagefound	Amebaidloginbtn	Unable to Find Image Amebaidloginbtn	16	on_login	Login.script
+2016-02-01 17:53:32.608 +0900	imagefound	Amebaid	Unable to Find Image Amebaid	20	on_login	Login.script
+2016-02-01 17:53:42.910 +0900	imagefound	mojibtn	Unable to Find Image mojibtn	24	on_login	Login.script
+2016-02-01 17:53:51.731 +0900	imagefound	password	Unable to Find Image password	31	on_login	Login.script
+2016-02-01 17:54:07.112 +0900	imagefound	loginbtn	Unable to Find Image loginbtn	37	on_login	Login.script
+2016-02-01 17:54:18.092 +0900	imagefound	Start	found at (534, 1361)	41	on_login	Login.script
+2016-02-01 17:54:18.179 +0900	tap		at (534, 1361)	42	on_login	Login.script
+2016-02-01 17:54:18.426 +0900	imagefound	homebtn	found at (451, 162)	44	on_login	Login.script
+2016-02-01 17:54:18.967 +0900	tap		at (451, 162)	45	on_login	Login.script
+2016-02-01 17:54:24.056 +0900	tap		at (451, 162)	47	on_login	Login.script
+2016-02-01 17:54:29.143 +0900	tap		at (451, 162)	49	on_login	Login.script
+2016-02-01 17:54:34.229 +0900	tap		at (451, 162)	51	on_login	Login.script
+2016-02-01 17:54:44.389 +0900	imagefound	batubtn	Unable to Find Image batubtn	54	on_login	Login.script
+2016-02-01 17:54:54.762 +0900	tap	MainMenu	at (923, 304)	3	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:54:57.000 +0900	tap	PrepareTest	at (268, 626)	4	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:02.926 +0900	imagefound	PrepareTestHeader	found at (508, 430)	6	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:02.928 +0900	Log		メニュー	7	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:02.929 +0900	Log		テスト勉強する	7	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:02.979 +0900	Log		True	7	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:13.877 +0900	capturescreen	テスト勉強TOP.tiff		12	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:19.809 +0900	imagefound	VoiceON	found at (99, 305)	1	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:19.901 +0900	tap		at (99, 305)	2	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:19.903 +0900	Log		VoiceON	3	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:19.905 +0900	Log		True	3	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:23.970 +0900	capturescreen	ボイスON.tiff		8	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:24.689 +0900	imagefound	VoiceOFF	found at (99, 302)	10	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:24.781 +0900	tap		at (99, 302)	11	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:24.783 +0900	Log		VoiceOFF	12	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:24.785 +0900	Log		True	12	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:28.797 +0900	capturescreen	ボイスOFF.tiff		17	on_voiceonoff	VoiceOnOff.script
+2016-02-01 17:55:34.787 +0900	imagefound	mypagebtn	found at (588, 306)	1	on_mypage	Mypage.script
+2016-02-01 17:55:34.875 +0900	tap		at (588, 306)	2	on_mypage	Mypage.script
+2016-02-01 17:55:34.876 +0900	Log		テスト勉強	3	on_mypage	Mypage.script
+2016-02-01 17:55:34.878 +0900	Log		マイページ	3	on_mypage	Mypage.script
+2016-02-01 17:55:34.879 +0900	Log		True	3	on_mypage	Mypage.script
+2016-02-01 17:55:40.168 +0900	capturescreen	マイページ.tiff		8	on_mypage	Mypage.script
+2016-02-01 17:55:45.392 +0900	tap	MainMenu	at (923, 304)	17	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:46.843 +0900	tap	PrepareTest	at (268, 626)	18	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:55:52.436 +0900	imagefound	iventbtn	found at (787, 302)	1	on_ivent	Ivent.script
+2016-02-01 17:55:52.523 +0900	tap		at (787, 302)	2	on_ivent	Ivent.script
+2016-02-01 17:55:52.523 +0900	Log		テスト勉強	3	on_ivent	Ivent.script
+2016-02-01 17:55:52.524 +0900	Log		イベント	3	on_ivent	Ivent.script
+2016-02-01 17:55:52.525 +0900	Log		True	3	on_ivent	Ivent.script
+2016-02-01 17:55:58.618 +0900	capturescreen	イベント画面.tiff		8	on_ivent	Ivent.script
+2016-02-01 17:56:03.850 +0900	imagefound	homebtn	found at (451, 162)	10	on_ivent	Ivent.script
+2016-02-01 17:56:03.939 +0900	tap		at (451, 162)	11	on_ivent	Ivent.script
+2016-02-01 17:56:07.805 +0900	tap	MainMenu	at (923, 307)	22	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:56:09.394 +0900	tap	PrepareTest	at (868, 455)	23	on_preparetestmainscript	prepareTestMainScript.script
+2016-02-01 17:56:14.992 +0900	imagefound	MainMenuOnHeaderBar	found at (981, 285)	1	on_menu	Menu.script
+2016-02-01 17:56:15.079 +0900	tap		at (981, 285)	2	on_menu	Menu.script
+2016-02-01 17:56:15.080 +0900	Log		テスト勉強	3	on_menu	Menu.script
+2016-02-01 17:56:15.081 +0900	Log		メニュー	3	on_menu	Menu.script
+2016-02-01 17:56:15.082 +0900	Log		True	3	on_menu	Menu.script
+2016-02-01 17:56:15.337 +0900	capturescreen	メニュー画面.tiff		7	on_menu	Menu.script
+2016-02-01 17:56:21.338 +0900	tap	Closebtn	at (928, 325)	9	on_menu	Menu.script
+2016-02-01 17:56:31.971 +0900	capturescreen	ヘッダー画像タップ前.tiff		1	on_headerimage	HeaderImage.script
+2016-02-01 17:56:37.918 +0900	imagefound	image0001	found at (171, 486)	3	on_headerimage	HeaderImage.script
+2016-02-01 17:56:38.007 +0900	tap		at (171, 486)	4	on_headerimage	HeaderImage.script
+2016-02-01 17:56:38.008 +0900	Log		テスト勉強	5	on_headerimage	HeaderImage.script
+2016-02-01 17:56:38.010 +0900	Log		ヘッダー画像	5	on_headerimage	HeaderImage.script
+2016-02-01 17:56:38.011 +0900	Log		True	5	on_headerimage	HeaderImage.script
+2016-02-01 17:56:44.060 +0900	capturescreen	ヘッダー画像タップ後.tiff		10	on_headerimage	HeaderImage.script
+2016-02-01 17:56:50.032 +0900	imagefound	TestStart	found at (537, 1245)	1	on_teststart	TestStart.script
+2016-02-01 17:56:50.117 +0900	tap		at (537, 1245)	2	on_teststart	TestStart.script
+2016-02-01 17:56:50.119 +0900	Log		テスト勉強	3	on_teststart	TestStart.script
+2016-02-01 17:56:50.144 +0900	Log		テスト勉強しにいく	3	on_teststart	TestStart.script
+2016-02-01 17:56:50.145 +0900	Log		True	3	on_teststart	TestStart.script
+2016-02-01 17:56:56.224 +0900	capturescreen	テスト勉強しにいく画面.tiff		8	on_teststart	TestStart.script
+2016-02-01 17:57:02.132 +0900	imagefound	Returnbtn	found at (636, 156)	10	on_teststart	TestStart.script
+2016-02-01 17:57:02.214 +0900	tap		at (636, 156)	11	on_teststart	TestStart.script
+2016-02-01 17:57:07.717 +0900	swipeup	test	Swiped up from (526, 1357) to (526, 576)	1	on_organization	Organization.script
+2016-02-01 17:57:08.028 +0900	imagefound	Organization	found at (322, 1131)	3	on_organization	Organization.script
+2016-02-01 17:57:08.499 +0900	tap		at (322, 1131)	4	on_organization	Organization.script
+2016-02-01 17:57:08.500 +0900	Log		テスト勉強	5	on_organization	Organization.script
+2016-02-01 17:57:08.669 +0900	Log		ガールズの編成	5	on_organization	Organization.script
+2016-02-01 17:57:08.670 +0900	Log		True	5	on_organization	Organization.script
+2016-02-01 17:57:09.260 +0900	capturescreen	ガールズの編成画面.tiff		9	on_organization	Organization.script
+2016-02-01 17:57:15.004 +0900	imagefound	Returnbtn	found at (636, 156)	11	on_organization	Organization.script
+2016-02-01 17:57:15.089 +0900	tap		at (636, 156)	12	on_organization	Organization.script
+2016-02-01 17:57:25.337 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	1	on_episode	Episode.script
+2016-02-01 17:57:41.381 +0900	imagefound	Episode	Unable to Find Image Episode	3	on_episode	Episode.script
+2016-02-01 17:57:41.382 +0900	Log		テスト勉強	7	on_episode	Episode.script
+2016-02-01 17:57:41.383 +0900	Log		エピソード	7	on_episode	Episode.script
+2016-02-01 17:57:41.435 +0900	Log		False	7	on_episode	Episode.script
+2016-02-01 17:57:47.289 +0900	capturescreen	エピソード画面.tiff		10	on_episode	Episode.script
+2016-02-01 17:57:53.259 +0900	imagefound	Returnbtn	found at (636, 156)	13	on_episode	Episode.script
+2016-02-01 17:57:53.343 +0900	tap		at (636, 156)	14	on_episode	Episode.script
+2016-02-01 17:58:30.724 +0900	Exception	test	No Image Found On Screen: "test"	1	on_rankbonus	RankBonus.script
+2016-02-01 17:58:30.956 +0900	EndTestCase		(Duration:"370.435829", Errors:"1", Exceptions:"1", StartTime:"2016-02-01 17:52:20 +0900", Successes:"0", TestCase:"prepareTestMainScript.script", Warnings:"0")
+2016-02-01 17:58:31.128 +0900	FAILURE	Screen_Error.tiff	Image Not Found swipeup Error - No Image Found On Screen: "test" -- Execution Time 0:06:10 prepareTestMainScript.script

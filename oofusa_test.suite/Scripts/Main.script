@@ -1,0 +1,10 @@
+﻿put "Device_XperiaZ3" into testDevice
+
+MobileManager.unlock testDevice
+
+// add all of TestSuite 
+if (TestRunner.start (BasicTestSuite, testDevice, GFAppIcon, GFCloseIcon))
+	TestRunner.start ScenarioTestSuite, testDevice, GFAppIcon, GFCloseIcon
+end if
+
+MobileManager.init testDevice

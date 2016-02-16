@@ -1,0 +1,15 @@
+﻿2016-01-29 15:49:17.729 +0900	START		Running Device.script
+2016-01-29 15:49:18.586 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_device	Device.script
+2016-01-29 15:49:22.524 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 1087) to (321, 576)	3	on_device	Device.script
+2016-01-29 15:49:26.492 +0900	swipeup	SwipeImage1	Swiped up from (496, 1333) to (496, 576)	5	on_device	Device.script
+2016-01-29 15:49:30.350 +0900	swipeup	SwipeImage2	Swiped up from (574, 1283) to (574, 576)	7	on_device	Device.script
+2016-01-29 15:49:34.260 +0900	imagefound	Device	found at (506, 1128)	10	on_device	Device.script
+2016-01-29 15:49:34.348 +0900	tap		at (506, 1128)	11	on_device	Device.script
+2016-01-29 15:49:34.350 +0900	Log		テスト勉強	12	on_device	Device.script
+2016-01-29 15:49:34.352 +0900	Log		推奨端末について	12	on_device	Device.script
+2016-01-29 15:49:34.353 +0900	Log		True	12	on_device	Device.script
+2016-01-29 15:49:40.533 +0900	swipeup	SwipeImage3	Swiped up from (345, 1256) to (345, 576)	17	on_device	Device.script
+2016-01-29 15:49:44.678 +0900	capturescreen	推奨端末について.tiff		19	on_device	Device.script
+2016-01-29 15:49:50.528 +0900	tap	Device	at (506, 592)	22	on_device	Device.script
+2016-01-29 15:49:55.735 +0900	EndTestCase		(Duration:"38.005252", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 15:49:17 +0900", Successes:"1", TestCase:"Device.script", Warnings:"0")
+2016-01-29 15:49:55.811 +0900	SUCCESS		Execution Time 0:00:38 Device.script

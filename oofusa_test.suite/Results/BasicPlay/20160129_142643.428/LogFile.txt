@@ -1,0 +1,9 @@
+﻿2016-01-29 14:26:43.430 +0900	START		Running BasicPlay.script
+2016-01-29 14:26:44.485 +0900	imagefound	BasicPlay	found at (236, 683)	1	on_basicplay	BasicPlay.script
+2016-01-29 14:26:44.573 +0900	tap		at (236, 683)	2	on_basicplay	BasicPlay.script
+2016-01-29 14:26:44.575 +0900	Log		テスト勉強	3	on_basicplay	BasicPlay.script
+2016-01-29 14:26:44.577 +0900	Log		基本の遊び方	3	on_basicplay	BasicPlay.script
+2016-01-29 14:26:44.588 +0900	Log		True	3	on_basicplay	BasicPlay.script
+2016-01-29 14:26:45.175 +0900	capturescreen	基本の遊び方.tiff		7	on_basicplay	BasicPlay.script
+2016-01-29 14:26:50.375 +0900	EndTestCase		(Duration:"6.943954", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 14:26:43 +0900", Successes:"1", TestCase:"BasicPlay.script", Warnings:"0")
+2016-01-29 14:26:50.449 +0900	SUCCESS		Execution Time 0:00:06 BasicPlay.script

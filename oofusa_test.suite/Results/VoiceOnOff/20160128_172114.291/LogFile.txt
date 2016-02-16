@@ -1,0 +1,4 @@
+﻿2016-01-28 17:21:14.293 +0900	START		Running Untitled.script
+2016-01-28 17:21:19.962 +0900	imagefound	Organization	Unable to Find Image Organization	1	on_untitled	Untitled.script
+2016-01-28 17:21:20.031 +0900	EndTestCase		(Duration:"5.737054", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 17:21:14 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-01-28 17:21:20.215 +0900	FAILURE	Screen_Error.tiff	STUnknownMessage ERROR: No Such Function: 'selection' -- Execution Time 0:00:05 Untitled.script

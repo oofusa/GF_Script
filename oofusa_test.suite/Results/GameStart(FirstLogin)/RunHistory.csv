@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-02-01 12:35:47.786 +0900,"Failure",0:00:14,1,0,0,"20160201_123547.786/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'wiat'",0

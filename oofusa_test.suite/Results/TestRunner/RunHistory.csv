@@ -1,0 +1,35 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-01-29 15:03:31.269 +0900,"Success",0:00:03,0,0,0,"20160129_150331.269/LogFile.txt","","",1
+2016-01-29 15:04:55.514 +0900,"Success",0:00:01,0,0,0,"20160129_150455.514/LogFile.txt","","",1
+2016-01-29 15:05:48.567 +0900,"Success",0:00:02,0,0,0,"20160129_150548.567/LogFile.txt","","",1
+2016-01-29 15:06:08.120 +0900,"Success",0:00:02,0,0,0,"20160129_150608.120/LogFile.txt","","",1
+2016-01-29 15:06:33.687 +0900,"Success",0:00:04,0,0,0,"20160129_150633.687/LogFile.txt","","",1
+2016-01-29 15:06:51.895 +0900,"Success",0:00:04,0,0,0,"20160129_150651.895/LogFile.txt","","",1
+2016-01-29 15:07:08.465 +0900,"Success",0:00:05,0,0,0,"20160129_150708.465/LogFile.txt","","",1
+2016-01-29 15:11:05.520 +0900,"Success",0:00:05,0,0,0,"20160129_151105.520/LogFile.txt","","",1
+2016-01-29 15:11:24.465 +0900,"Success",0:00:05,0,0,0,"20160129_151124.465/LogFile.txt","","",1
+2016-01-29 15:11:41.505 +0900,"Success",0:00:05,0,0,0,"20160129_151141.505/LogFile.txt","","",1
+2016-01-29 15:14:22.991 +0900,"Success",0:00:09,0,0,0,"20160129_151422.991/LogFile.txt","","",1
+2016-01-29 15:14:50.050 +0900,"Success",0:00:08,0,0,0,"20160129_151450.050/LogFile.txt","","",1
+2016-01-29 15:15:11.991 +0900,"Success",0:00:09,0,0,0,"20160129_151511.991/LogFile.txt","","",1
+2016-01-29 15:15:39.267 +0900,"Success",0:00:08,0,0,0,"20160129_151539.267/LogFile.txt","","",1
+2016-01-29 15:16:02.614 +0900,"Success",0:00:08,0,0,0,"20160129_151602.614/LogFile.txt","","",1
+2016-01-29 15:18:50.250 +0900,"Success",0:00:13,0,0,0,"20160129_151850.250/LogFile.txt","","",1
+2016-01-29 15:19:23.041 +0900,"Success",0:00:13,0,0,0,"20160129_151923.041/LogFile.txt","","",1
+2016-01-29 18:05:26.730 +0900,"Failure",0:00:00,1,0,0,"20160129_180526.730/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:08:25.509 +0900,"Failure",0:00:00,1,0,0,"20160129_180825.509/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:13:15.254 +0900,"Failure",0:00:00,1,0,0,"20160129_181315.254/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:14:51.817 +0900,"Failure",0:00:00,1,0,0,"20160129_181451.817/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:15:39.776 +0900,"Failure",0:00:00,1,0,0,"20160129_181539.776/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:22:54.210 +0900,"Failure",0:00:00,1,0,0,"20160129_182254.210/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:23:10.644 +0900,"Failure",0:00:00,1,0,0,"20160129_182310.644/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'.",0
+2016-01-29 18:33:13.340 +0900,"Failure",0:00:00,1,0,0,"20160129_183313.340/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand [end of line] at or near character 13",0
+2016-01-29 18:33:23.495 +0900,"Failure",0:00:00,1,0,0,"20160129_183323.495/LogFile.txt","","SenseTalk Compiler Exception -- in untitled:\nSyntax Error at line 1: Syntax Error - can't understand [end of line] at or near character 13",0
+2016-01-29 18:34:37.827 +0900,"Success",0:00:15,0,0,0,"20160129_183437.827/LogFile.txt","","",1
+2016-02-04 11:17:18.631 +0900,"Success",0:00:00,0,0,0,"20160204_111718.631/LogFile.txt","","",1
+2016-02-04 11:20:10.946 +0900,"Success",0:00:00,0,0,0,"20160204_112010.946/LogFile.txt","","",1
+2016-02-04 12:42:31.583 +0900,"Success",0:00:00,0,0,0,"20160204_124231.583/LogFile.txt","","",1
+2016-02-04 12:47:17.586 +0900,"Success",0:00:00,0,0,0,"20160204_124717.586/LogFile.txt","","",1
+2016-02-04 12:48:41.578 +0900,"Success",0:00:00,0,0,0,"20160204_124841.578/LogFile.txt","","",1
+2016-02-04 12:56:21.073 +0900,"Success",0:00:00,0,0,0,"20160204_125621.073/LogFile.txt","","",1
+2016-02-04 12:58:27.752 +0900,"Success",0:00:00,0,0,0,"20160204_125827.752/LogFile.txt","","",1

@@ -1,0 +1,7 @@
+﻿2016-02-04 16:11:02.091 +0900	START		Running Untitled.script
+2016-02-04 16:11:02.229 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-04 16:11:02.268 +0900	Log		error:BasicTestSuite,BasicTestCase,login,False	2	on_write	LogUtil.script
+2016-02-04 16:11:05.499 +0900	capturescreen	BasicTestSuite_BasicTestCase_login__476262662.311.tiff		3	on_capture	CaptureUtil.script
+2016-02-04 16:11:05.504 +0900	Log		Runtime Error at line 2: STUnknownMessage - ERROR: No Such Function: 'init'	14	function_start	TestRunner.script
+2016-02-04 16:11:05.752 +0900	EndTestCase		(Duration:"3.65881", Errors:"0", Exceptions:"0", StartTime:"2016-02-04 16:11:02 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-02-04 16:11:05.767 +0900	SUCCESS		Execution Time 0:00:03 Untitled.script

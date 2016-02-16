@@ -1,0 +1,14 @@
+﻿2016-02-04 15:09:06.838 +0900	START		Running Main.script
+2016-02-04 15:09:07.230 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:08.276 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-04 15:09:08.388 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:11.486 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:14.585 +0900	tap		at (500, 1500)	5	function_init	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:17.618 +0900	Log		error:BasicTestSuite,BasicTestCase,login,False	2	on_write	LogUtil.script
+2016-02-04 15:09:18.805 +0900	capturescreen	BasicTestSuite_BasicTestCase_login__476258957.664.tiff		3	on_capture	CaptureUtil.script
+2016-02-04 15:09:18.815 +0900	Log		Runtime Error at line 2: STUnknownMessage - ERROR: No Such Function: 'findapp'	14	function_start	TestRunner.script
+2016-02-04 15:09:18.956 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:22.081 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:25.179 +0900	tap		at (500, 1500)	5	function_init	Device_HTCJbutterflyHTL23.script
+2016-02-04 15:09:28.408 +0900	EndTestCase		(Duration:"21.568087", Errors:"0", Exceptions:"0", StartTime:"2016-02-04 15:09:06 +0900", Successes:"1", TestCase:"Main.script", Warnings:"0")
+2016-02-04 15:09:28.482 +0900	SUCCESS		Execution Time 0:00:21 Main.script

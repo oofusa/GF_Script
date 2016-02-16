@@ -1,0 +1,5 @@
+﻿function getTestCases
+	set list to (BasicTestCase)
+	return list
+	
+end getTestCases

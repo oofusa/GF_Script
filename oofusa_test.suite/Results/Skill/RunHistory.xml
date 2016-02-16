@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Skill">
+ <run>
+  <RunDate>2016-01-29 12:56:07.513 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>6.354589</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_125607.513/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

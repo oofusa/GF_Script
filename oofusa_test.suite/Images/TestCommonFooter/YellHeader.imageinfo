@@ -1,0 +1,19 @@
+﻿{
+    CaptureDate = "2016-02-05 02:16:41 +0000";
+    CaptureHost = localhost;
+    CaptureScreenSize =     (
+        1080,
+        1920
+    );
+    HasAlpha = 1;
+    HonorAlpha = 1;
+    HotSpotX = 164;
+    HotSpotY = 34;
+    LastKnownLocationX = 0;
+    LastKnownLocationY = 0;
+    OriginalLocationX = 143;
+    OriginalLocationY = 397;
+    Pulsing = 0;
+    Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
+}

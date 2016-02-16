@@ -1,0 +1,4 @@
+﻿2016-01-29 10:43:02.241 +0900	START		Running sample1.script
+2016-01-29 10:43:02.801 +0900	tap	image0001	at (171, 486)	2	on_sample2	sample2.script
+2016-01-29 10:43:02.894 +0900	EndTestCase		(Duration:"0.651187", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 10:43:02 +0900", Successes:"1", TestCase:"sample1.script", Warnings:"0")
+2016-01-29 10:43:02.905 +0900	SUCCESS		Execution Time 0:00:00 sample1.script

@@ -1,0 +1,12 @@
+﻿2016-01-27 19:20:27.692 +0900	START		Running Untitled.script
+2016-01-27 19:20:28.227 +0900	tap	homeicon	at (137, 611)	1	on_untitled	Untitled.script
+2016-01-27 19:20:35.152 +0900	tap	startbtn	at (531, 882)	3	on_untitled	Untitled.script
+2016-01-27 19:20:41.374 +0900	tap	idpasslogin	at (539, 1462)	5	on_untitled	Untitled.script
+2016-01-27 19:20:45.331 +0900	tap	Amebaidloginbtn	at (542, 1115)	7	on_untitled	Untitled.script
+2016-01-27 19:20:49.307 +0900	tap	Amebaid	at (394, 502)	9	on_untitled	Untitled.script
+2016-01-27 19:20:54.733 +0900	tap	mojibtn	at (97, 1655)	11	on_untitled	Untitled.script
+2016-01-27 19:20:59.914 +0900	typetext		otameshi-kun8	13	on_untitled	Untitled.script
+2016-01-27 19:21:00.633 +0900	typetext		[return]	14	on_untitled	Untitled.script
+2016-01-27 19:21:21.000 +0900	Exception	password	No Image Found On Screen: "password"	16	on_untitled	Untitled.script
+2016-01-27 19:21:21.044 +0900	EndTestCase		(Duration:"53.350285", Errors:"1", Exceptions:"1", StartTime:"2016-01-27 19:20:27 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-01-27 19:21:21.045 +0900	ABORTED		Execution Time 0:00:53 Untitled.script

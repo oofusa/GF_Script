@@ -1,0 +1,4 @@
+﻿2016-01-28 17:25:16.688 +0900	START		Running Untitled.script
+2016-01-28 17:25:16.781 +0900	mousebuttondown		Button:5	1	on_untitled	Untitled.script
+2016-01-28 17:25:16.861 +0900	EndTestCase		(Duration:"0.171275", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 17:25:16 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-01-28 17:25:16.872 +0900	SUCCESS		Execution Time 0:00:00 Untitled.script

@@ -1,0 +1,12 @@
+﻿2016-01-28 12:58:13.108 +0900	START		Running GameStart(Second).script
+2016-01-28 12:58:13.729 +0900	tap	homeicon	at (137, 611)	1	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:19.719 +0900	imagefound	Start	found at (534, 1361)	4	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:19.804 +0900	tap		at (534, 1361)	5	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:22.598 +0900	tap	MainMenu	at (923, 307)	8	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:25.677 +0900	tap	PrepareTest	at (868, 452)	9	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:30.832 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:41.073 +0900	imagefound	VoiceON	Unable to Find Image VoiceON	15	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:41.228 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:41.314 +0900	tap		at (99, 302)	20	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:58:46.367 +0900	EndTestCase		(Duration:"33.258197", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 12:58:13 +0900", Successes:"1", TestCase:"GameStart(Second).script", Warnings:"0")
+2016-01-28 12:58:46.438 +0900	SUCCESS		Execution Time 0:00:33 GameStart(Second).script

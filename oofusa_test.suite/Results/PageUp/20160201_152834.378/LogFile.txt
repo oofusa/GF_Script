@@ -1,0 +1,13 @@
+﻿2016-02-01 15:28:34.379 +0900	START		Running PageUp.script
+2016-02-01 15:28:35.720 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_pageup	PageUp.script
+2016-02-01 15:28:38.982 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	3	on_pageup	PageUp.script
+2016-02-01 15:28:42.240 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	5	on_pageup	PageUp.script
+2016-02-01 15:28:45.506 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	7	on_pageup	PageUp.script
+2016-02-01 15:28:49.467 +0900	imagefound	PageUp	found at (538, 365)	10	on_pageup	PageUp.script
+2016-02-01 15:28:49.554 +0900	tap		at (538, 365)	11	on_pageup	PageUp.script
+2016-02-01 15:28:49.555 +0900	Log		テスト勉強	12	on_pageup	PageUp.script
+2016-02-01 15:28:49.556 +0900	Log		ページ上部へ	12	on_pageup	PageUp.script
+2016-02-01 15:28:49.558 +0900	Log		True	12	on_pageup	PageUp.script
+2016-02-01 15:28:55.732 +0900	capturescreen	ページ上部.tiff		17	on_pageup	PageUp.script
+2016-02-01 15:29:00.883 +0900	EndTestCase		(Duration:"26.502537", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 15:28:34 +0900", Successes:"1", TestCase:"PageUp.script", Warnings:"0")
+2016-02-01 15:29:00.968 +0900	SUCCESS		Execution Time 0:00:26 PageUp.script

@@ -1,0 +1,13 @@
+﻿2016-01-29 18:03:34.357 +0900	START		Running prepareTestMainScript.script
+2016-01-29 18:03:34.894 +0900	tap	homeicon	at (137, 611)	1	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:41.978 +0900	imagefound	Start	found at (534, 1361)	3	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:42.070 +0900	tap		at (534, 1361)	4	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:44.645 +0900	tap	MainMenu	at (923, 307)	7	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:47.444 +0900	tap	PrepareTest	at (868, 455)	8	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:53.187 +0900	imagefound	PrepareTestHeader	found at (508, 430)	10	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:53.187 +0900	Log		メニュー	11	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:53.189 +0900	Log		テスト勉強する	11	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:53.239 +0900	Log		True	11	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:03:58.836 +0900	capturescreen	テスト勉強TOP.tiff		16	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 18:04:04.102 +0900	EndTestCase		(Duration:"29.743732", Errors:"1", Exceptions:"0", StartTime:"2016-01-29 18:03:34 +0900", Successes:"0", TestCase:"prepareTestMainScript.script", Warnings:"0")
+2016-01-29 18:04:04.349 +0900	FAILURE	Screen_Error.tiff	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'sample2'. -- Execution Time 0:00:29 prepareTestMainScript.script

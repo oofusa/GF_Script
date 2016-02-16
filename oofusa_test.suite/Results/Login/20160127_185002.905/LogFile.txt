@@ -1,0 +1,8 @@
+﻿2016-01-27 18:50:02.907 +0900	START		Running Untitled.script
+2016-01-27 18:50:04.148 +0900	tap	homeicon	at (137, 611)	1	on_untitled	Untitled.script
+2016-01-27 18:50:10.633 +0900	tap	startbtn	at (531, 882)	2	on_untitled	Untitled.script
+2016-01-27 18:50:15.806 +0900	tap	idpasslogin	at (539, 1462)	3	on_untitled	Untitled.script
+2016-01-27 18:50:17.426 +0900	tap	Amebaidloginbtn	at (542, 500)	4	on_untitled	Untitled.script
+2016-01-27 18:50:43.970 +0900	Exception	Amebaid	No Image Found On Screen: "Amebaid"	5	on_untitled	Untitled.script
+2016-01-27 18:50:44.023 +0900	EndTestCase		(Duration:"41.114602", Errors:"1", Exceptions:"1", StartTime:"2016-01-27 18:50:02 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-01-27 18:50:44.406 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "Amebaid" -- Execution Time 0:00:41 Untitled.script

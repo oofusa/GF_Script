@@ -1,0 +1,13 @@
+﻿2016-01-29 18:34:37.829 +0900	START		Running Untitled.script
+2016-01-29 18:34:39.073 +0900	imagefound	VoiceON	found at (99, 305)	1	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:39.162 +0900	tap		at (99, 305)	2	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:39.163 +0900	Log		VoiceON	3	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:39.165 +0900	Log		True	3	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:43.252 +0900	capturescreen	ボイスON.tiff		8	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:44.120 +0900	imagefound	VoiceOFF	found at (99, 302)	10	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:44.206 +0900	tap		at (99, 302)	11	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:44.208 +0900	Log		VoiceOFF	12	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:44.210 +0900	Log		True	12	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:48.251 +0900	capturescreen	ボイスOFF.tiff		17	on_voiceonoff	VoiceOnOff.script
+2016-01-29 18:34:53.528 +0900	EndTestCase		(Duration:"15.697132", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 18:34:37 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-01-29 18:34:53.607 +0900	SUCCESS		Execution Time 0:00:15 Untitled.script

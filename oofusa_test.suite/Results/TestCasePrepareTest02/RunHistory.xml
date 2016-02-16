@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<runHistory script="TestCasePrepareTest02">
+ <run>
+  <RunDate>2016-02-03 14:53:21.751 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>0.002967</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160203_145321.751/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-02-04 11:18:27.031 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>0.009387</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160204_111827.031/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

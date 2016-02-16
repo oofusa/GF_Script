@@ -1,0 +1,8 @@
+﻿2016-01-28 17:47:26.235 +0900	START		Running prepareTest.script
+2016-01-28 17:47:27.442 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 17:47:34.969 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 17:47:35.059 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 17:47:37.407 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 17:48:03.520 +0900	Exception	PrepareTest	No Image Found On Screen: "PrepareTest"	9	on_preparetest	prepareTest.script
+2016-01-28 17:48:03.598 +0900	EndTestCase		(Duration:"37.361392", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 17:47:26 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 17:48:03.729 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "PrepareTest" -- Execution Time 0:00:37 prepareTest.script

@@ -1,0 +1,6 @@
+﻿2016-02-05 17:03:52.681 +0900	START		Running Untitled1.script
+2016-02-05 17:03:52.798 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 17:04:03.435 +0900	imagefound	GoToSchool	Unable to Find Image GoToSchool	3	on_menu	TestCommon.script
+2016-02-05 17:04:27.086 +0900	Exception	MainMenuOnTop	No Image Found On Screen: "MainMenuOnTop"	8	on_menu	TestCommon.script
+2016-02-05 17:04:27.458 +0900	EndTestCase		(Duration:"34.774895", Errors:"1", Exceptions:"1", StartTime:"2016-02-05 17:03:52 +0900", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-02-05 17:04:27.459 +0900	ABORTED		Execution Time 0:00:34 Untitled1.script

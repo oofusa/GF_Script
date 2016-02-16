@@ -1,0 +1,16 @@
+﻿2016-01-29 17:04:07.021 +0900	START		Running Mypage2.script
+2016-01-29 17:04:08.056 +0900	swipeup	test	Swiped up from (526, 1357) to (526, 576)	1	on_mypage2	Mypage2.script
+2016-01-29 17:04:11.846 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 821) to (321, 576)	3	on_mypage2	Mypage2.script
+2016-01-29 17:04:16.165 +0900	swipeup	SwipeImage1	Swiped up from (496, 1463) to (496, 576)	5	on_mypage2	Mypage2.script
+2016-01-29 17:04:20.076 +0900	swipeup	SwipeImage2	Swiped up from (574, 1302) to (574, 576)	7	on_mypage2	Mypage2.script
+2016-01-29 17:04:24.009 +0900	swipeup	SwipeImage4	Swiped up from (284, 877) to (284, 576)	9	on_mypage2	Mypage2.script
+2016-01-29 17:04:27.825 +0900	imagefound	mypagebtn2	found at (542, 907)	12	on_mypage2	Mypage2.script
+2016-01-29 17:04:27.912 +0900	tap		at (542, 907)	13	on_mypage2	Mypage2.script
+2016-01-29 17:04:27.914 +0900	Log		テスト勉強	14	on_mypage2	Mypage2.script
+2016-01-29 17:04:27.917 +0900	Log		マイページ(2回目)	14	on_mypage2	Mypage2.script
+2016-01-29 17:04:27.919 +0900	Log		True	14	on_mypage2	Mypage2.script
+2016-01-29 17:04:33.165 +0900	capturescreen	マイページ(2回目).tiff		19	on_mypage2	Mypage2.script
+2016-01-29 17:04:36.342 +0900	tap	MainMenu	at (923, 304)	22	on_mypage2	Mypage2.script
+2016-01-29 17:04:37.996 +0900	tap	PrepareTest	at (868, 455)	23	on_mypage2	Mypage2.script
+2016-01-29 17:04:43.223 +0900	EndTestCase		(Duration:"36.200467", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:04:07 +0900", Successes:"1", TestCase:"Mypage2.script", Warnings:"0")
+2016-01-29 17:04:43.293 +0900	SUCCESS		Execution Time 0:00:36 Mypage2.script

@@ -1,0 +1,39 @@
+﻿2016-01-28 16:28:15.191 +0900	START		Running prepareTest.script
+2016-01-28 16:28:15.577 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 16:28:21.186 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 16:28:21.267 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 16:28:23.952 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 16:28:26.975 +0900	tap	PrepareTest	at (868, 452)	9	on_preparetest	prepareTest.script
+2016-01-28 16:28:32.223 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 16:28:33.407 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 16:28:33.498 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 16:28:34.163 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 16:28:34.283 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 16:28:39.596 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 16:28:44.791 +0900	tap	MainMenu	at (923, 304)	25	on_preparetest	prepareTest.script
+2016-01-28 16:28:46.652 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 16:28:51.824 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 16:28:57.189 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	30	on_preparetest	prepareTest.script
+2016-01-28 16:28:58.722 +0900	tap	PrepareTest	at (268, 626)	31	on_preparetest	prepareTest.script
+2016-01-28 16:29:03.922 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	33	on_preparetest	prepareTest.script
+2016-01-28 16:29:09.135 +0900	tap	Closebtn	at (928, 325)	35	on_preparetest	prepareTest.script
+2016-01-28 16:29:20.070 +0900	imagefound	shina	Unable to Find Image shina	38	on_preparetest	prepareTest.script
+2016-01-28 16:29:25.329 +0900	imagefound	chloe	Unable to Find Image chloe	42	on_preparetest	prepareTest.script
+2016-01-28 16:29:30.628 +0900	imagefound	sakurai	Unable to Find Image sakurai	46	on_preparetest	prepareTest.script
+2016-01-28 16:29:36.247 +0900	imagefound	murakami	Unable to Find Image murakami	50	on_preparetest	prepareTest.script
+2016-01-28 16:29:42.153 +0900	imagefound	monochrome	Unable to Find Image monochrome	54	on_preparetest	prepareTest.script
+2016-01-28 16:29:48.188 +0900	imagefound	shigino	Unable to Find Image shigino	58	on_preparetest	prepareTest.script
+2016-01-28 16:29:52.646 +0900	imagefound	himejima	Unable to Find Image himejima	62	on_preparetest	prepareTest.script
+2016-01-28 16:29:58.281 +0900	imagefound	shiranui	Unable to Find Image shiranui	66	on_preparetest	prepareTest.script
+2016-01-28 16:30:03.364 +0900	imagefound	tomura	Unable to Find Image tomura	70	on_preparetest	prepareTest.script
+2016-01-28 16:30:09.411 +0900	imagefound	shinonome	Unable to Find Image shinonome	74	on_preparetest	prepareTest.script
+2016-01-28 16:30:15.370 +0900	imagefound	kamijo	Unable to Find Image kamijo	78	on_preparetest	prepareTest.script
+2016-01-28 16:30:20.436 +0900	imagefound	tokitani	Unable to Find Image tokitani	82	on_preparetest	prepareTest.script
+2016-01-28 16:30:26.516 +0900	imagefound	kohinata	Unable to Find Image kohinata	86	on_preparetest	prepareTest.script
+2016-01-28 16:30:32.520 +0900	imagefound	sasahara	Unable to Find Image sasahara	90	on_preparetest	prepareTest.script
+2016-01-28 16:30:37.647 +0900	imagefound	tamai	Unable to Find Image tamai	94	on_preparetest	prepareTest.script
+2016-01-28 16:30:43.108 +0900	tap	TestStart	at (537, 1245)	98	on_preparetest	prepareTest.script
+2016-01-28 16:30:46.098 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	100	on_preparetest	prepareTest.script
+2016-01-28 16:30:47.642 +0900	tap	PrepareTest	at (268, 644)	101	on_preparetest	prepareTest.script
+2016-01-28 16:30:52.723 +0900	EndTestCase		(Duration:"157.529922", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 16:28:15 +0900", Successes:"1", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 16:30:52.794 +0900	SUCCESS		Execution Time 0:02:37 prepareTest.script

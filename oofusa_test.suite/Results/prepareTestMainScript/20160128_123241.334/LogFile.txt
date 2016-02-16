@@ -1,0 +1,10 @@
+﻿2016-01-28 12:32:41.335 +0900	START		Running GameStart(Second).script
+2016-01-28 12:32:42.006 +0900	tap	homeicon	at (137, 611)	1	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:48.827 +0900	imagefound	Start	found at (534, 1361)	4	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:48.911 +0900	tap		at (534, 1361)	5	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:50.999 +0900	tap	MainMenu	at (923, 307)	8	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:54.122 +0900	tap	PrepareTest	at (868, 452)	9	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:59.242 +0900	imagefound	PrepareTestHeader	found at (508, 430)	11	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:59.512 +0900	capturescreen	テスト勉強Top.tiff		12	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:32:59.565 +0900	EndTestCase		(Duration:"18.228465", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 12:32:41 +0900", Successes:"1", TestCase:"GameStart(Second).script", Warnings:"0")
+2016-01-28 12:32:59.577 +0900	SUCCESS		Execution Time 0:00:18 GameStart(Second).script

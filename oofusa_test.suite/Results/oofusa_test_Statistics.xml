@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="BasicTestCase">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-02-05 12:30:51 +0900</FirstRun>
+  <LastRun>2016-02-05 12:30:51 +0900</LastRun>
+  <TotalTimeOnSuccess>0.002832</TotalTimeOnSuccess>
+ </script>
+ <script name="TestCasePrepareTest02">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-02-03 14:53:21 +0900</FirstRun>
+  <LastRun>2016-02-04 11:18:27 +0900</LastRun>
+  <TotalTimeOnSuccess>0.012354</TotalTimeOnSuccess>
+ </script>
+ <script name="MobileManager">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-02-04 12:50:52 +0900</FirstRun>
+  <LastRun>2016-02-04 12:50:52 +0900</LastRun>
+  <TotalTimeOnSuccess>0.002799</TotalTimeOnSuccess>
+ </script>
+ <script name="Main">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-02-04 14:54:49 +0900</FirstRun>
+  <LastRun>2016-02-05 18:22:29 +0900</LastRun>
+  <TotalTimeOnSuccess>3948.681620</TotalTimeOnSuccess>
+ </script>
+ <script name="TestCasePrepareTest01">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-02-04 11:42:44 +0900</FirstRun>
+  <LastRun>2016-02-04 11:42:44 +0900</LastRun>
+  <TotalTimeOnSuccess>0.002824</TotalTimeOnSuccess>
+ </script>
+ <script name="TestRunner">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>7</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-02-04 11:17:18 +0900</FirstRun>
+  <LastRun>2016-02-04 12:58:27 +0900</LastRun>
+  <TotalTimeOnSuccess>0.020806</TotalTimeOnSuccess>
+ </script>
+</statistics>

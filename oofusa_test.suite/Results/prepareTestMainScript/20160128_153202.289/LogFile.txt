@@ -1,0 +1,19 @@
+﻿2016-01-28 15:32:02.291 +0900	START		Running prepareTest.script
+2016-01-28 15:32:03.194 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 15:32:10.083 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 15:32:10.170 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 15:32:12.790 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 15:32:16.986 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 15:32:22.077 +0900	imagefound	PrepareTestHeader	found at (508, 430)	11	on_preparetest	prepareTest.script
+2016-01-28 15:32:22.376 +0900	capturescreen	テスト勉強Top.tiff		12	on_preparetest	prepareTest.script
+2016-01-28 15:32:22.519 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 15:32:22.606 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 15:32:23.259 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 15:32:23.396 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 15:32:24.336 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 15:32:26.403 +0900	tap	MainMenu	at (923, 307)	25	on_preparetest	prepareTest.script
+2016-01-28 15:32:28.232 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 15:32:30.414 +0900	tap	iventbtn	at (787, 305)	28	on_preparetest	prepareTest.script
+2016-01-28 15:32:56.570 +0900	Exception	MainMenu	No Image Found On Screen: "MainMenu"	30	on_preparetest	prepareTest.script
+2016-01-28 15:32:56.647 +0900	EndTestCase		(Duration:"54.35429", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:32:02 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:32:56.836 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "MainMenu" -- Execution Time 0:00:54 prepareTest.script

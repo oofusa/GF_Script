@@ -1,0 +1,33 @@
+﻿2016-02-01 15:48:11.356 +0900	START		Running PageUp.script
+2016-02-01 15:48:12.666 +0900	swipeup	test	Swiped up from (526, 1358) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:48:15.926 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:48:19.188 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:48:22.455 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:48:36.028 +0900	imagefound	PageUp	Unable to Find Image PageUp	11	on_pageup	PageUp.script
+2016-02-01 15:48:36.029 +0900	Log		テスト勉強	15	on_pageup	PageUp.script
+2016-02-01 15:48:36.031 +0900	Log		ページ上部へ	15	on_pageup	PageUp.script
+2016-02-01 15:48:36.085 +0900	Log		False	15	on_pageup	PageUp.script
+2016-02-01 15:48:41.993 +0900	imagefound	AGPfooter	Unable to Find Image AGPfooter	16	on_pageup	PageUp.script
+2016-02-01 15:48:52.719 +0900	imagefound	PageUp	Unable to Find Image PageUp	19	on_pageup	PageUp.script
+2016-02-01 15:48:52.720 +0900	Log		テスト勉強	23	on_pageup	PageUp.script
+2016-02-01 15:48:52.721 +0900	Log		ページ上部へ	23	on_pageup	PageUp.script
+2016-02-01 15:48:52.776 +0900	Log		False	23	on_pageup	PageUp.script
+2016-02-01 15:48:58.258 +0900	capturescreen	ページ上部.tiff		27	on_pageup	PageUp.script
+2016-02-01 15:49:04.536 +0900	swipeup	test	Swiped up from (526, 1403) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:49:07.804 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:49:11.069 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:49:14.326 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:49:27.914 +0900	imagefound	PageUp	Unable to Find Image PageUp	11	on_pageup	PageUp.script
+2016-02-01 15:49:27.915 +0900	Log		テスト勉強	15	on_pageup	PageUp.script
+2016-02-01 15:49:27.965 +0900	Log		ページ上部へ	15	on_pageup	PageUp.script
+2016-02-01 15:49:28.185 +0900	Log		False	15	on_pageup	PageUp.script
+2016-02-01 15:49:29.184 +0900	imagefound	AGPfooter	found at (231, 346)	16	on_pageup	PageUp.script
+2016-02-01 15:49:29.506 +0900	swipedown		Swiped down from (231, 346) to (231, 1344)	17	on_pageup	PageUp.script
+2016-02-01 15:49:30.199 +0900	imagefound	PageUp	found at (538, 292)	19	on_pageup	PageUp.script
+2016-02-01 15:49:30.289 +0900	tap		at (538, 292)	20	on_pageup	PageUp.script
+2016-02-01 15:49:30.290 +0900	Log		テスト勉強	21	on_pageup	PageUp.script
+2016-02-01 15:49:30.292 +0900	Log		ページ上部へ	21	on_pageup	PageUp.script
+2016-02-01 15:49:30.293 +0900	Log		True	21	on_pageup	PageUp.script
+2016-02-01 15:49:36.410 +0900	capturescreen	ページ上部.tiff		27	on_pageup	PageUp.script
+2016-02-01 15:49:37.801 +0900	EndTestCase		(Duration:"86.443624", Errors:"1", Exceptions:"0", StartTime:"2016-02-01 15:48:11 +0900", Successes:"0", TestCase:"PageUp.script", Warnings:"0")
+2016-02-01 15:49:37.802 +0900	ABORTED		Execution Time 0:01:26 PageUp.script

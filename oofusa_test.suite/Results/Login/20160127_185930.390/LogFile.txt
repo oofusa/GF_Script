@@ -1,0 +1,5 @@
+﻿2016-01-27 18:59:30.391 +0900	START		Running Untitled.script
+2016-01-27 18:59:31.023 +0900	tap	homeicon	at (137, 611)	1	on_untitled	Untitled.script
+2016-01-27 18:59:56.926 +0900	Exception	startbtn	No Image Found On Screen: "startbtn"	2	on_untitled	Untitled.script
+2016-01-27 18:59:56.970 +0900	EndTestCase		(Duration:"26.577905", Errors:"1", Exceptions:"1", StartTime:"2016-01-27 18:59:30 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-01-27 18:59:57.111 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "startbtn" -- Execution Time 0:00:26 Untitled.script

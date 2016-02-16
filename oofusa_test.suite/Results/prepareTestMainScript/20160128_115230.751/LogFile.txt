@@ -1,0 +1,4 @@
+﻿2016-01-28 11:52:30.752 +0900	START		Running GameStart(Second).script
+2016-01-28 11:52:31.095 +0900	tap	homeicon	at (137, 611)	1	on_gamestart_second_	GameStart(Second).script
+2016-01-28 11:52:36.152 +0900	EndTestCase		(Duration:"5.398064", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 11:52:30 +0900", Successes:"1", TestCase:"GameStart(Second).script", Warnings:"0")
+2016-01-28 11:52:36.210 +0900	SUCCESS		Execution Time 0:00:05 GameStart(Second).script

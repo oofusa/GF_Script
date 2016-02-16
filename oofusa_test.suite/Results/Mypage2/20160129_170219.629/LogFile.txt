@@ -1,0 +1,15 @@
+﻿2016-01-29 17:02:19.631 +0900	START		Running Mypage2.script
+2016-01-29 17:02:20.672 +0900	swipeup	test	Swiped up from (526, 1357) to (526, 576)	1	on_mypage2	Mypage2.script
+2016-01-29 17:02:24.503 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 824) to (321, 576)	3	on_mypage2	Mypage2.script
+2016-01-29 17:02:28.313 +0900	swipeup	SwipeImage1	Swiped up from (496, 1183) to (496, 576)	5	on_mypage2	Mypage2.script
+2016-01-29 17:02:31.792 +0900	swipeup	SwipeImage2	Swiped up from (574, 1086) to (574, 576)	7	on_mypage2	Mypage2.script
+2016-01-29 17:02:35.761 +0900	swipeup	SwipeImage4	Swiped up from (284, 1160) to (284, 576)	9	on_mypage2	Mypage2.script
+2016-01-29 17:02:39.160 +0900	imagefound	mypagebtn2	found at (542, 1121)	12	on_mypage2	Mypage2.script
+2016-01-29 17:02:39.246 +0900	tap		at (542, 1121)	13	on_mypage2	Mypage2.script
+2016-01-29 17:02:39.246 +0900	Log		テスト勉強	14	on_mypage2	Mypage2.script
+2016-01-29 17:02:39.248 +0900	Log		マイページ(2回目)	14	on_mypage2	Mypage2.script
+2016-01-29 17:02:39.249 +0900	Log		True	14	on_mypage2	Mypage2.script
+2016-01-29 17:02:44.541 +0900	capturescreen	マイページ(2回目).tiff		19	on_mypage2	Mypage2.script
+2016-01-29 17:03:06.731 +0900	Exception	MainMenuOnHeaderBar	No Image Found On Screen: "MainMenuOnHeaderBar"	22	on_mypage2	Mypage2.script
+2016-01-29 17:03:06.979 +0900	EndTestCase		(Duration:"47.345695", Errors:"1", Exceptions:"1", StartTime:"2016-01-29 17:02:19 +0900", Successes:"0", TestCase:"Mypage2.script", Warnings:"0")
+2016-01-29 17:03:06.980 +0900	ABORTED		Execution Time 0:00:47 Mypage2.script

@@ -1,0 +1,10 @@
+﻿2016-02-05 17:04:34.467 +0900	START		Running Untitled1.script
+2016-02-05 17:04:34.556 +0900	set		SWIPESPEED = 5	2	on_menu	TestCommon.script
+2016-02-05 17:04:45.151 +0900	imagefound	GoToSchool	Unable to Find Image GoToSchool	3	on_menu	TestCommon.script
+2016-02-05 17:04:57.809 +0900	tap	MainMenuOnTop	at (922, 320)	8	on_menu	TestCommon.script
+2016-02-05 17:05:01.330 +0900	imagefound	TestCasePrepareTest02/PrepareTestBtn	found at (832, 452)	11	on_menu	TestCommon.script
+2016-02-05 17:05:01.420 +0900	tap		at (832, 452)	12	on_menu	TestCommon.script
+2016-02-05 17:05:06.423 +0900	set		SWIPESPEED = 40	19	on_menu	TestCommon.script
+2016-02-05 17:05:06.472 +0900	Exception		Image Property List did not contain "ImageName" property	3	on_untitled1	Untitled1.script
+2016-02-05 17:05:06.756 +0900	EndTestCase		(Duration:"32.286595", Errors:"1", Exceptions:"1", StartTime:"2016-02-05 17:04:34 +0900", Successes:"0", TestCase:"Untitled1.script", Warnings:"0")
+2016-02-05 17:05:07.068 +0900	FAILURE	Screen_Error.tiff	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:32 Untitled1.script

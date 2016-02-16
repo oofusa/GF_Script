@@ -1,0 +1,3 @@
+﻿2016-02-04 12:52:22.844 +0900	START		Running Untitled.script
+2016-02-04 12:52:23.163 +0900	EndTestCase		(Duration:"0.317343", Errors:"1", Exceptions:"0", StartTime:"2016-02-04 12:52:22 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-02-04 12:52:24.854 +0900	FAILURE	Screen_Error.tiff	STUnknownMessage ERROR: No Such Command: 'dorun' -- Execution Time 0:00:00 Untitled.script

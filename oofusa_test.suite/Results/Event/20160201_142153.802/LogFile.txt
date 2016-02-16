@@ -1,0 +1,3 @@
+﻿2016-02-01 14:21:53.804 +0900	START		Running Ivent.script
+2016-02-01 14:21:53.806 +0900	EndTestCase		(Duration:"0.000204", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 14:21:53 +0900", Successes:"1", TestCase:"Ivent.script", Warnings:"0")
+2016-02-01 14:21:53.878 +0900	SUCCESS		Execution Time 0:00:00 Ivent.script

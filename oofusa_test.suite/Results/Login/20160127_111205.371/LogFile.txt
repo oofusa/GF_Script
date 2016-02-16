@@ -1,0 +1,4 @@
+﻿2016-01-27 11:12:05.372 +0900	START		Running Untitled.script
+2016-01-27 11:12:08.249 +0900	tap	homeicon	at (121, 194)	1	on_untitled	Untitled.script
+2016-01-27 11:12:08.293 +0900	EndTestCase		(Duration:"2.918713", Errors:"0", Exceptions:"0", StartTime:"2016-01-27 11:12:05 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-01-27 11:12:08.306 +0900	SUCCESS		Execution Time 0:00:02 Untitled.script

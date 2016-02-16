@@ -1,0 +1,3 @@
+﻿2016-02-04 11:17:18.632 +0900	START		Running TestRunner.script
+2016-02-04 11:17:18.637 +0900	EndTestCase		(Duration:"0.000475", Errors:"0", Exceptions:"0", StartTime:"2016-02-04 11:17:18 +0900", Successes:"1", TestCase:"TestRunner.script", Warnings:"0")
+2016-02-04 11:17:18.701 +0900	SUCCESS		Execution Time 0:00:00 TestRunner.script

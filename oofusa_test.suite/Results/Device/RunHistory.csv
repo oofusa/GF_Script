@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-01-29 15:38:24.827 +0900,"Success",0:00:27,0,0,0,"20160129_153824.827/LogFile.txt","","",1
+2016-01-29 15:39:29.234 +0900,"Success",0:00:27,0,0,0,"20160129_153929.234/LogFile.txt","","",1
+2016-01-29 15:40:37.264 +0900,"Success",0:00:28,0,0,0,"20160129_154037.264/LogFile.txt","","",1
+2016-01-29 15:45:19.089 +0900,"Failure",0:01:02,1,0,1,"20160129_154519.089/LogFile.txt","","Image Not Found -- tap Error - No Image Found On Screen: ""Device""",0
+2016-01-29 15:49:17.727 +0900,"Success",0:00:38,0,0,0,"20160129_154917.727/LogFile.txt","","",1

@@ -1,0 +1,6 @@
+﻿2016-02-01 12:35:47.804 +0900	START		Running GameStart(First).script
+2016-02-01 12:35:51.575 +0900	tap	homeicon	at (137, 611)	1	on_gamestart_first_	GameStart(First).script
+2016-02-01 12:36:02.443 +0900	imagefound	Start	found at (534, 1361)	4	on_gamestart_first_	GameStart(First).script
+2016-02-01 12:36:02.535 +0900	tap		at (534, 1361)	5	on_gamestart_first_	GameStart(First).script
+2016-02-01 12:36:02.695 +0900	EndTestCase		(Duration:"14.869958", Errors:"1", Exceptions:"0", StartTime:"2016-02-01 12:35:47 +0900", Successes:"0", TestCase:"GameStart(First).script", Warnings:"0")
+2016-02-01 12:36:03.023 +0900	FAILURE	Screen_Error.tiff	STUnknownMessage ERROR: No Such Command: 'wiat' -- Execution Time 0:00:14 GameStart(First).script

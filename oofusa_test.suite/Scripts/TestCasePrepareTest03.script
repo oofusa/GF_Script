@@ -1,0 +1,24 @@
+﻿to gfCoin
+	TestCommon.menu("TestCasePrepareTest03/PrepareTestBtn")
+	TestCommon.result TestCommonFooter.gfCoin(),"エリア選択（テスト勉強）", "ガルフレコインタップ", "遷移確認", 29
+end gfCoin
+
+to gotoSchoolBtn
+	TestCommon.menu("TestCasePrepareTest03/PrepareTestBtn")
+	TestCommon.result TestCommonFooter.gotoSchoolBtn(),"エリア選択（テスト勉強）", "登校タップ", "遷移確認", 30
+end gotoSchoolBtn
+
+to battle
+	TestCommon.menu("TestCasePrepareTest03/PrepareTestBtn")
+	TestCommon.result TestCommonFooter.battle(),"エリア選択（テスト勉強）", "バトルタップ", "遷移確認", 31
+end battle
+
+to cupid
+	TestCommon.menu("TestCasePrepareTest03/PrepareTestBtn")
+	TestCommon.result TestCommonFooter.cupid(),"エリア選択（テスト勉強）",  "キューピットタップ", "遷移確認", 32
+end cupid
+
+to yell
+	TestCommon.menu("TestCasePrepareTest03/PrepareTestBtn")
+	TestCommon.result TestCommonFooter.yell(),"エリア選択（テスト勉強）", "エールタップ", "遷移確認", 33
+end yell

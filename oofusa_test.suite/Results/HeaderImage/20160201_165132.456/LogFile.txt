@@ -1,0 +1,10 @@
+﻿2016-02-01 16:51:32.461 +0900	START		Running HeaderImage.script
+2016-02-01 16:51:33.949 +0900	capturescreen	ヘッダー画像タップ前.tiff		1	on_headerimage	HeaderImage.script
+2016-02-01 16:51:39.832 +0900	imagefound	image0001	found at (171, 486)	3	on_headerimage	HeaderImage.script
+2016-02-01 16:51:39.922 +0900	tap		at (171, 486)	4	on_headerimage	HeaderImage.script
+2016-02-01 16:51:39.924 +0900	Log		テスト勉強	5	on_headerimage	HeaderImage.script
+2016-02-01 16:51:39.928 +0900	Log		ヘッダー画像	5	on_headerimage	HeaderImage.script
+2016-02-01 16:51:39.932 +0900	Log		True	5	on_headerimage	HeaderImage.script
+2016-02-01 16:51:40.910 +0900	capturescreen	ヘッダー画像タップ後.tiff		10	on_headerimage	HeaderImage.script
+2016-02-01 16:51:46.585 +0900	EndTestCase		(Duration:"14.116948", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 16:51:32 +0900", Successes:"1", TestCase:"HeaderImage.script", Warnings:"0")
+2016-02-01 16:51:46.739 +0900	SUCCESS		Execution Time 0:00:14 HeaderImage.script

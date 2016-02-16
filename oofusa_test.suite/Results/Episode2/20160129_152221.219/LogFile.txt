@@ -1,0 +1,13 @@
+﻿2016-01-29 15:22:21.220 +0900	START		Running Episode2.script
+2016-01-29 15:22:21.916 +0900	swipeup	test	Swiped up from (526, 1357) to (526, 576)	1	on_episode2	Episode2.script
+2016-01-29 15:22:26.037 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 1405) to (321, 576)	3	on_episode2	Episode2.script
+2016-01-29 15:22:29.739 +0900	swipeup	SwipeImage1	Swiped up from (496, 945) to (496, 576)	5	on_episode2	Episode2.script
+2016-01-29 15:22:33.864 +0900	swipeup	SwipeImage2	Swiped up from (574, 1110) to (574, 576)	7	on_episode2	Episode2.script
+2016-01-29 15:22:37.472 +0900	imagefound	Episode2	found at (673, 979)	10	on_episode2	Episode2.script
+2016-01-29 15:22:37.556 +0900	tap		at (673, 979)	11	on_episode2	Episode2.script
+2016-01-29 15:22:37.558 +0900	Log		テスト勉強	12	on_episode2	Episode2.script
+2016-01-29 15:22:37.560 +0900	Log		エピソードを見に行く	12	on_episode2	Episode2.script
+2016-01-29 15:22:37.561 +0900	Log		True	12	on_episode2	Episode2.script
+2016-01-29 15:22:42.896 +0900	capturescreen	エピソードを見に行く.tiff		17	on_episode2	Episode2.script
+2016-01-29 15:22:48.122 +0900	EndTestCase		(Duration:"26.900702", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 15:22:21 +0900", Successes:"1", TestCase:"Episode2.script", Warnings:"0")
+2016-01-29 15:22:48.199 +0900	SUCCESS		Execution Time 0:00:26 Episode2.script

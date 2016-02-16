@@ -1,0 +1,63 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Device">
+ <run>
+  <RunDate>2016-01-29 15:38:24.827 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>27.829891</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_153824.827/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-01-29 15:39:29.234 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>27.803788</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_153929.234/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-01-29 15:40:37.264 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>28.122625</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_154037.264/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-01-29 15:45:19.089 +0900</RunDate>
+  <Status>Failure</Status>
+  <Duration>62.847324</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160129_154519.089/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- tap Error - No Image Found On Screen: &quot;Device&quot;</ErrorMessage>
+ </run>
+ <run>
+  <RunDate>2016-01-29 15:49:17.727 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>38.007304</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_154917.727/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

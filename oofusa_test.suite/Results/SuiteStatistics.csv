@@ -1,0 +1,7 @@
+﻿Script,Last Status,Runs,Fails,First Run,Last Run,Avg Time(Success)
+BasicTestCase,Success,1,0,2016-02-05 12:30:51 +0900,2016-02-05 12:30:51 +0900,0:00:00
+TestCasePrepareTest02,Success,2,0,2016-02-03 14:53:21 +0900,2016-02-04 11:18:27 +0900,0:00:00
+MobileManager,Success,1,0,2016-02-04 12:50:52 +0900,2016-02-04 12:50:52 +0900,0:00:00
+Main,Success,13,1,2016-02-04 14:54:49 +0900,2016-02-05 18:22:29 +0900,0:05:29
+TestCasePrepareTest01,Success,1,0,2016-02-04 11:42:44 +0900,2016-02-04 11:42:44 +0900,0:00:00
+TestRunner,Success,7,0,2016-02-04 11:17:18 +0900,2016-02-04 12:58:27 +0900,0:00:00

@@ -1,0 +1,4 @@
+﻿2016-01-28 16:58:28.489 +0900	START		Running Untitled.script
+2016-01-28 16:58:28.542 +0900	scrollwheeldown		moved 100	1	on_untitled	Untitled.script
+2016-01-28 16:58:28.614 +0900	EndTestCase		(Duration:"0.119035", Errors:"0", Exceptions:"0", StartTime:"2016-01-28 16:58:28 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-01-28 16:58:28.626 +0900	SUCCESS		Execution Time 0:00:00 Untitled.script

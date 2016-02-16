@@ -1,0 +1,21 @@
+﻿2016-01-28 15:51:09.941 +0900	START		Running prepareTest.script
+2016-01-28 15:51:10.940 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 15:51:17.952 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 15:51:18.037 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 15:51:21.211 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 15:51:23.540 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 15:51:28.914 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 15:51:29.606 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 15:51:29.692 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 15:51:30.354 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 15:51:30.484 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 15:51:31.450 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 15:51:34.142 +0900	tap	MainMenu	at (923, 307)	25	on_preparetest	prepareTest.script
+2016-01-28 15:51:35.973 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 15:51:41.682 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 15:51:47.072 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	30	on_preparetest	prepareTest.script
+2016-01-28 15:51:47.993 +0900	tap	PrepareTest	at (268, 626)	31	on_preparetest	prepareTest.script
+2016-01-28 15:51:49.518 +0900	tap	MainMenuOnHeaderBar	at (981, 288)	33	on_preparetest	prepareTest.script
+2016-01-28 15:52:08.459 +0900	Exception	Closebtn	No Image Found On Screen: "Closebtn"	35	on_preparetest	prepareTest.script
+2016-01-28 15:52:08.540 +0900	EndTestCase		(Duration:"58.597375", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:51:09 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:52:08.541 +0900	ABORTED		Execution Time 0:00:58 prepareTest.script

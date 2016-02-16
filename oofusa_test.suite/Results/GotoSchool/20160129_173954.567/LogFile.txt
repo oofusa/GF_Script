@@ -1,0 +1,11 @@
+﻿2016-01-29 17:39:54.569 +0900	START		Running GotoSchool.script
+2016-01-29 17:39:54.917 +0900	imagefound	GotoSchool	found at (329, 1649)	1	on_gotoschool	GotoSchool.script
+2016-01-29 17:39:55.003 +0900	tap		at (329, 1649)	2	on_gotoschool	GotoSchool.script
+2016-01-29 17:39:55.005 +0900	Log		テスト勉強	3	on_gotoschool	GotoSchool.script
+2016-01-29 17:39:55.044 +0900	Log		登校	3	on_gotoschool	GotoSchool.script
+2016-01-29 17:39:55.047 +0900	Log		True	3	on_gotoschool	GotoSchool.script
+2016-01-29 17:39:58.599 +0900	capturescreen	登校.tiff		8	on_gotoschool	GotoSchool.script
+2016-01-29 17:40:03.882 +0900	imagefound	Returnbtn	found at (636, 156)	10	on_gotoschool	GotoSchool.script
+2016-01-29 17:40:03.973 +0900	tap		at (636, 156)	11	on_gotoschool	GotoSchool.script
+2016-01-29 17:40:09.226 +0900	EndTestCase		(Duration:"14.654365", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:39:54 +0900", Successes:"1", TestCase:"GotoSchool.script", Warnings:"0")
+2016-01-29 17:40:09.303 +0900	SUCCESS		Execution Time 0:00:14 GotoSchool.script

@@ -1,0 +1,30 @@
+﻿2016-01-28 16:06:14.156 +0900	START		Running prepareTest.script
+2016-01-28 16:06:14.902 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 16:06:20.974 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 16:06:21.061 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 16:06:23.470 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 16:06:26.899 +0900	tap	PrepareTest	at (868, 452)	9	on_preparetest	prepareTest.script
+2016-01-28 16:06:32.056 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 16:06:32.731 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 16:06:32.813 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 16:06:33.849 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 16:06:33.939 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 16:06:39.571 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 16:06:44.762 +0900	tap	MainMenu	at (923, 304)	25	on_preparetest	prepareTest.script
+2016-01-28 16:06:45.880 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 16:06:51.134 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 16:06:56.837 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	30	on_preparetest	prepareTest.script
+2016-01-28 16:06:57.895 +0900	tap	PrepareTest	at (268, 626)	31	on_preparetest	prepareTest.script
+2016-01-28 16:07:03.071 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	33	on_preparetest	prepareTest.script
+2016-01-28 16:07:09.006 +0900	tap	Closebtn	at (928, 325)	35	on_preparetest	prepareTest.script
+2016-01-28 16:07:19.146 +0900	imagefound	shigino	Unable to Find Image shigino	38	on_preparetest	prepareTest.script
+2016-01-28 16:07:24.168 +0900	imagefound	himejima	Unable to Find Image himejima	42	on_preparetest	prepareTest.script
+2016-01-28 16:07:30.152 +0900	imagefound	shiranui	Unable to Find Image shiranui	46	on_preparetest	prepareTest.script
+2016-01-28 16:07:35.357 +0900	imagefound	tomura	Unable to Find Image tomura	50	on_preparetest	prepareTest.script
+2016-01-28 16:07:40.885 +0900	imagefound	shinonome	Unable to Find Image shinonome	54	on_preparetest	prepareTest.script
+2016-01-28 16:07:46.006 +0900	imagefound	kamijo	Unable to Find Image kamijo	58	on_preparetest	prepareTest.script
+2016-01-28 16:07:51.158 +0900	imagefound	tokitani	Unable to Find Image tokitani	62	on_preparetest	prepareTest.script
+2016-01-28 16:07:56.321 +0900	imagefound	kohinata	Unable to Find Image kohinata	66	on_preparetest	prepareTest.script
+2016-01-28 16:08:01.489 +0900	imagefound	sasahara	Unable to Find Image sasahara	70	on_preparetest	prepareTest.script
+2016-01-28 16:08:03.714 +0900	EndTestCase		(Duration:"109.556941", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 16:06:14 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 16:08:03.715 +0900	ABORTED		Execution Time 0:01:49 prepareTest.script

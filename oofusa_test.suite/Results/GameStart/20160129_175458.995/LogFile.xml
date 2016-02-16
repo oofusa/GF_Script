@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="GameStart.script" package="oofusa_test.suite" timestamp="2016-01-29 17:54:58.995 +0900"
+ tests="1" successes="1" errors="0" time="8.729531">
+  <properties>
+   <property name="RunDate" value="2016-01-29 17:54:58.995 +0900"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="GameStart.script" assertions="1" successes="1" errors="0" time="8.727164">
+  </testcase>
+ </testsuite>
+</testsuites>

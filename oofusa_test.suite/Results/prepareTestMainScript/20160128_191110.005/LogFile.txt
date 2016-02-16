@@ -1,0 +1,4 @@
+﻿2016-01-28 19:11:10.007 +0900	START		Running prepareTest.script
+2016-01-28 19:11:10.875 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 19:11:17.137 +0900	EndTestCase		(Duration:"7.127507", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 19:11:10 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 19:11:17.139 +0900	ABORTED		Execution Time 0:00:07 prepareTest.script

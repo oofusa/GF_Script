@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GotoSchool">
+ <run>
+  <RunDate>2016-01-29 17:39:54.567 +0900</RunDate>
+  <Status>Success</Status>
+  <Duration>14.657208</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160129_173954.567/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

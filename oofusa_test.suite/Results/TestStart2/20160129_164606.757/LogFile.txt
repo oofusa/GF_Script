@@ -1,0 +1,13 @@
+﻿2016-01-29 16:46:06.759 +0900	START		Running TestStart2.script
+2016-01-29 16:46:08.152 +0900	swipeup	test	Swiped up from (526, 1357) to (526, 576)	1	on_teststart2	TestStart2.script
+2016-01-29 16:46:11.954 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 832) to (321, 576)	3	on_teststart2	TestStart2.script
+2016-01-29 16:46:16.214 +0900	swipeup	SwipeImage1	Swiped up from (496, 1466) to (496, 576)	5	on_teststart2	TestStart2.script
+2016-01-29 16:46:20.164 +0900	swipeup	SwipeImage2	Swiped up from (574, 1303) to (574, 576)	7	on_teststart2	TestStart2.script
+2016-01-29 16:46:33.346 +0900	imagefound	TestStart	Unable to Find Image TestStart	10	on_teststart2	TestStart2.script
+2016-01-29 16:46:33.347 +0900	Log		テスト勉強	14	on_teststart2	TestStart2.script
+2016-01-29 16:46:33.348 +0900	Log		テスト勉強しにいく	14	on_teststart2	TestStart2.script
+2016-01-29 16:46:33.350 +0900	Log		False	14	on_teststart2	TestStart2.script
+2016-01-29 16:46:33.615 +0900	capturescreen	テスト勉強しにいく画面.tiff		16	on_teststart2	TestStart2.script
+2016-01-29 16:46:45.851 +0900	Exception	MainMenuOnHeaderBar	No Image Found On Screen: "MainMenuOnHeaderBar"	18	on_teststart2	TestStart2.script
+2016-01-29 16:46:46.094 +0900	EndTestCase		(Duration:"39.333483", Errors:"1", Exceptions:"1", StartTime:"2016-01-29 16:46:06 +0900", Successes:"0", TestCase:"TestStart2.script", Warnings:"0")
+2016-01-29 16:46:46.095 +0900	ABORTED		Execution Time 0:00:39 TestStart2.script

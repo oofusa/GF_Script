@@ -1,0 +1,3 @@
+﻿to write level,testsuite,testcase,function,result
+	log level &":" & testsuite &","& testcase &","& function &","& result
+end write

@@ -1,0 +1,3 @@
+﻿2016-01-29 10:40:44.445 +0900	START		Running sample1.script
+2016-01-29 10:40:44.658 +0900	EndTestCase		(Duration:"0.209889", Errors:"1", Exceptions:"0", StartTime:"2016-01-29 10:40:44 +0900", Successes:"0", TestCase:"sample1.script", Warnings:"0")
+2016-01-29 10:40:45.432 +0900	FAILURE	Screen_Error.tiff	STUnknownMessage ERROR: No Such Command: 'puts' -- Execution Time 0:00:00 sample1.script

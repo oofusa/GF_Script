@@ -1,0 +1,3 @@
+﻿2016-01-28 17:13:24.946 +0900	START		Running Untitled.script
+2016-01-28 17:13:25.115 +0900	EndTestCase		(Duration:"0.167702", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 17:13:24 +0900", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2016-01-28 17:13:26.279 +0900	FAILURE	Screen_Error.tiff	STUnknownMessage ERROR: No Such Command: 'pagedown' -- Execution Time 0:00:00 Untitled.script

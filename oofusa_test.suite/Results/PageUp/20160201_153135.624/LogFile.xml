@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="PageUp.script" package="oofusa_test.suite" timestamp="2016-02-01 15:31:35.624 +0900"
+ tests="1" successes="0" errors="1" time="0.004157">
+  <properties>
+   <property name="RunDate" value="2016-02-01 15:31:35.624 +0900"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="PageUp.script" assertions="1" successes="0" errors="1" time="0.001252">
+  </testcase>
+ </testsuite>
+</testsuites>

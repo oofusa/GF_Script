@@ -1,0 +1,44 @@
+﻿2016-01-28 16:50:13.006 +0900	START		Running prepareTest.script
+2016-01-28 16:50:14.178 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 16:50:20.323 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 16:50:20.404 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 16:50:23.328 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 16:50:26.400 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 16:50:31.545 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 16:50:32.191 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 16:50:32.276 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 16:50:32.984 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 16:50:33.071 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 16:50:38.374 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 16:50:43.591 +0900	tap	MainMenu	at (923, 304)	25	on_preparetest	prepareTest.script
+2016-01-28 16:50:45.505 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 16:50:50.699 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 16:50:56.390 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	30	on_preparetest	prepareTest.script
+2016-01-28 16:50:57.535 +0900	tap	PrepareTest	at (268, 626)	31	on_preparetest	prepareTest.script
+2016-01-28 16:51:02.739 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	33	on_preparetest	prepareTest.script
+2016-01-28 16:51:07.973 +0900	tap	Closebtn	at (928, 325)	35	on_preparetest	prepareTest.script
+2016-01-28 16:51:18.847 +0900	imagefound	shina	Unable to Find Image shina	38	on_preparetest	prepareTest.script
+2016-01-28 16:51:23.999 +0900	imagefound	chloe	Unable to Find Image chloe	42	on_preparetest	prepareTest.script
+2016-01-28 16:51:29.944 +0900	imagefound	sakurai	Unable to Find Image sakurai	46	on_preparetest	prepareTest.script
+2016-01-28 16:51:35.936 +0900	imagefound	murakami	Unable to Find Image murakami	50	on_preparetest	prepareTest.script
+2016-01-28 16:51:40.992 +0900	imagefound	monochrome	Unable to Find Image monochrome	54	on_preparetest	prepareTest.script
+2016-01-28 16:51:47.021 +0900	imagefound	shigino	Unable to Find Image shigino	58	on_preparetest	prepareTest.script
+2016-01-28 16:51:51.890 +0900	imagefound	himejima	Unable to Find Image himejima	62	on_preparetest	prepareTest.script
+2016-01-28 16:51:58.082 +0900	imagefound	shiranui	Unable to Find Image shiranui	66	on_preparetest	prepareTest.script
+2016-01-28 16:52:03.134 +0900	imagefound	tomura	Unable to Find Image tomura	70	on_preparetest	prepareTest.script
+2016-01-28 16:52:09.157 +0900	imagefound	shinonome	Unable to Find Image shinonome	74	on_preparetest	prepareTest.script
+2016-01-28 16:52:15.159 +0900	imagefound	kamijo	Unable to Find Image kamijo	78	on_preparetest	prepareTest.script
+2016-01-28 16:52:20.219 +0900	imagefound	tokitani	Unable to Find Image tokitani	82	on_preparetest	prepareTest.script
+2016-01-28 16:52:26.029 +0900	imagefound	kohinata	Unable to Find Image kohinata	86	on_preparetest	prepareTest.script
+2016-01-28 16:52:32.382 +0900	imagefound	sasahara	Unable to Find Image sasahara	90	on_preparetest	prepareTest.script
+2016-01-28 16:52:38.399 +0900	imagefound	tamai	Unable to Find Image tamai	94	on_preparetest	prepareTest.script
+2016-01-28 16:52:43.972 +0900	tap	TestStart	at (537, 1245)	98	on_preparetest	prepareTest.script
+2016-01-28 16:52:45.931 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	100	on_preparetest	prepareTest.script
+2016-01-28 16:52:47.609 +0900	tap	PrepareTest	at (268, 644)	101	on_preparetest	prepareTest.script
+2016-01-28 16:52:58.052 +0900	imagefound	Organization	Unable to Find Image Organization	104	on_preparetest	prepareTest.script
+2016-01-28 16:52:58.335 +0900	tap	MainMenuOnHeaderBar	at (981, 285)	107	on_preparetest	prepareTest.script
+2016-01-28 16:53:00.038 +0900	tap	PrepareTest	at (268, 644)	108	on_preparetest	prepareTest.script
+2016-01-28 16:53:10.186 +0900	imagefound	Episode	Unable to Find Image Episode	111	on_preparetest	prepareTest.script
+2016-01-28 16:53:25.962 +0900	Exception	MainMenuOnHeaderBar	No Image Found On Screen: "MainMenuOnHeaderBar"	115	on_preparetest	prepareTest.script
+2016-01-28 16:53:26.055 +0900	EndTestCase		(Duration:"193.047397", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 16:50:13 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 16:53:26.055 +0900	ABORTED		Execution Time 0:03:13 prepareTest.script

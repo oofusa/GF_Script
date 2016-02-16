@@ -1,0 +1,9 @@
+﻿2016-01-28 12:19:04.332 +0900	START		Running GameStart(Second).script
+2016-01-28 12:19:05.288 +0900	tap	homeicon	at (137, 611)	1	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:12.293 +0900	imagefound	Start	found at (534, 1361)	4	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:12.385 +0900	tap		at (534, 1361)	5	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:14.588 +0900	tap	MainMenu	at (923, 307)	8	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:17.125 +0900	tap	PrepareTest	at (868, 452)	9	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:22.389 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_gamestart_second_	GameStart(Second).script
+2016-01-28 12:19:22.536 +0900	EndTestCase		(Duration:"18.202106", Errors:"1", Exceptions:"0", StartTime:"2016-01-28 12:19:04 +0900", Successes:"0", TestCase:"GameStart(Second).script", Warnings:"0")
+2016-01-28 12:19:22.666 +0900	FAILURE	Screen_Error.tiff	SRUN_BadValue Bad value for Object expression.  Looking for an object or script identifier, got 'LogUtil'. -- Execution Time 0:00:18 GameStart(Second).script

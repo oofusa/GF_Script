@@ -1,0 +1,43 @@
+﻿to menu image
+	Set the SwipeSpeed to 5
+	if ImageFound(Image:"GoToSchool" , WaitFor:10)
+		tap FoundImageLocation()
+	end if
+	wait 3
+	
+	tap Image:"MainMenuOnTop", WaitFor: 10
+	wait 3
+	repeat 3 times
+		if ImageFound(5, image)
+			tap FoundImageLocation()
+			wait 5
+			exit repeat
+		else
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+		end if
+	end repeat
+	Set the SwipeSpeed to 40
+	
+end menu
+
+to result judge,suite,case,point,index
+	LogUtil.write "result",suite,case,point,judge,index
+	CaptureUtil.capture  suite,case,point
+	Set the SwipeSpeed to 40
+	
+end result
+
+to scrollTap image,count,speed
+	Set the SwipeSpeed to speed
+	repeat count times
+		if ImageFound(5, image)
+			tap FoundImageLocation()
+			wait 5
+			exit repeat
+		else
+			SwipeUp (RemoteScreenSize().x / 2, RemoteScreenSize().y / 2)
+		end if
+	end repeat
+	Set the SwipeSpeed to 40
+	
+end scrolltap

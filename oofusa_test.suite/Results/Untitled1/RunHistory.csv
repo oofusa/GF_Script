@@ -1,0 +1,6 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-02-05 17:03:52.680 +0900,"Running",0:00:00,0,0,0,"20160205_170352.680/LogFile.txt","","",0
+2016-02-05 17:04:34.466 +0900,"Failure",0:00:32,1,0,1,"20160205_170434.466/LogFile.txt","","Image Not Found -- imagefound Error - Image Property List did not contain ""ImageName"" property",0
+2016-02-05 18:19:27.585 +0900,"Success",0:00:00,0,0,0,"20160205_181927.585/LogFile.txt","","",1
+2016-02-05 18:20:30.766 +0900,"Success",0:00:00,0,0,0,"20160205_182030.766/LogFile.txt","","",1
+2016-02-05 18:21:26.782 +0900,"Success",0:00:00,0,0,0,"20160205_182126.782/LogFile.txt","","",1

@@ -1,0 +1,19 @@
+﻿2016-02-01 15:22:33.162 +0900	START		Running PageUp.script
+2016-02-01 15:22:34.553 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_pageup	PageUp.script
+2016-02-01 15:22:38.706 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 1069) to (321, 576)	3	on_pageup	PageUp.script
+2016-02-01 15:22:42.990 +0900	swipeup	SwipeImage1	Swiped up from (496, 1469) to (496, 576)	5	on_pageup	PageUp.script
+2016-02-01 15:22:46.578 +0900	swipeup	SwipeImage2	Swiped up from (574, 1305) to (574, 576)	7	on_pageup	PageUp.script
+2016-02-01 15:22:50.710 +0900	swipeup	SwipeImage4	Swiped up from (284, 1069) to (284, 576)	9	on_pageup	PageUp.script
+2016-02-01 15:23:03.895 +0900	imagefound	PageUp	Unable to Find Image PageUp	12	on_pageup	PageUp.script
+2016-02-01 15:23:03.896 +0900	Log		テスト勉強	16	on_pageup	PageUp.script
+2016-02-01 15:23:03.898 +0900	Log		ページ上部へ	16	on_pageup	PageUp.script
+2016-02-01 15:23:03.944 +0900	Log		False	16	on_pageup	PageUp.script
+2016-02-01 15:23:04.094 +0900	swipeup	SwipeImage4	Swiped up from (284, 683) to (284, 576)	17	on_pageup	PageUp.script
+2016-02-01 15:23:14.735 +0900	imagefound	PageUp	Unable to Find Image PageUp	18	on_pageup	PageUp.script
+2016-02-01 15:23:14.736 +0900	Log		テスト勉強	22	on_pageup	PageUp.script
+2016-02-01 15:23:14.737 +0900	Log		ページ上部へ	22	on_pageup	PageUp.script
+2016-02-01 15:23:14.788 +0900	Log		False	22	on_pageup	PageUp.script
+2016-02-01 15:23:20.925 +0900	capturescreen	ページ上部.tiff		26	on_pageup	PageUp.script
+2016-02-01 15:23:26.185 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	29	on_pageup	PageUp.script
+2016-02-01 15:23:26.353 +0900	EndTestCase		(Duration:"53.18896", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 15:22:33 +0900", Successes:"1", TestCase:"PageUp.script", Warnings:"0")
+2016-02-01 15:23:26.415 +0900	SUCCESS		Execution Time 0:00:53 PageUp.script

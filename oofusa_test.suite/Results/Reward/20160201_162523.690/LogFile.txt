@@ -1,0 +1,15 @@
+﻿2016-02-01 16:25:23.691 +0900	START		Running Reward.script
+2016-02-01 16:25:33.946 +0900	imagefound	Reward	Unable to Find Image Reward	1	on_reward	Reward.script
+2016-02-01 16:25:33.947 +0900	Log		テスト勉強	5	on_reward	Reward.script
+2016-02-01 16:25:33.948 +0900	Log		ご褒美タブ	5	on_reward	Reward.script
+2016-02-01 16:25:33.997 +0900	Log		False	5	on_reward	Reward.script
+2016-02-01 16:25:34.102 +0900	imagefound	SwipeImage1	found at (496, 915)	6	on_reward	Reward.script
+2016-02-01 16:25:34.241 +0900	swipedown		Swiped down from (496, 915) to (496, 1344)	7	on_reward	Reward.script
+2016-02-01 16:25:34.463 +0900	imagefound	Reward	found at (751, 300)	9	on_reward	Reward.script
+2016-02-01 16:25:35.031 +0900	tap		at (751, 300)	10	on_reward	Reward.script
+2016-02-01 16:25:35.033 +0900	Log		テスト勉強	11	on_reward	Reward.script
+2016-02-01 16:25:35.034 +0900	Log		ご褒美タブ	11	on_reward	Reward.script
+2016-02-01 16:25:35.087 +0900	Log		True	11	on_reward	Reward.script
+2016-02-01 16:25:39.203 +0900	capturescreen	ご褒美タブ.tiff		17	on_reward	Reward.script
+2016-02-01 16:25:44.363 +0900	EndTestCase		(Duration:"20.670033", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 16:25:23 +0900", Successes:"1", TestCase:"Reward.script", Warnings:"0")
+2016-02-01 16:25:44.439 +0900	SUCCESS		Execution Time 0:00:20 Reward.script

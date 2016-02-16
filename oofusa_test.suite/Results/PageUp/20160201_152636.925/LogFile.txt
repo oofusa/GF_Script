@@ -1,0 +1,5 @@
+﻿2016-02-01 15:26:36.927 +0900	START		Running PageUp.script
+2016-02-01 15:26:38.267 +0900	swipeup	test	Swiped up from (526, 1358) to (526, 576)	1	on_pageup	PageUp.script
+2016-02-01 15:26:42.358 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 795) to (321, 576)	3	on_pageup	PageUp.script
+2016-02-01 15:27:00.190 +0900	EndTestCase		(Duration:"23.255385", Errors:"1", Exceptions:"0", StartTime:"2016-02-01 15:26:36 +0900", Successes:"0", TestCase:"PageUp.script", Warnings:"0")
+2016-02-01 15:27:00.191 +0900	ABORTED		Execution Time 0:00:23 PageUp.script

@@ -1,0 +1,11 @@
+﻿2016-01-29 14:33:27.276 +0900	START		Running Reward.script
+2016-01-29 14:33:27.997 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_reward	Reward.script
+2016-01-29 14:33:28.984 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 821) to (321, 576)	2	on_reward	Reward.script
+2016-01-29 14:33:32.708 +0900	imagefound	Reward	found at (751, 437)	4	on_reward	Reward.script
+2016-01-29 14:33:32.801 +0900	tap		at (751, 437)	5	on_reward	Reward.script
+2016-01-29 14:33:32.803 +0900	Log		テスト勉強	6	on_reward	Reward.script
+2016-01-29 14:33:32.805 +0900	Log		ご褒美タブ	6	on_reward	Reward.script
+2016-01-29 14:33:32.806 +0900	Log		True	6	on_reward	Reward.script
+2016-01-29 14:33:36.123 +0900	capturescreen	ご褒美タブ.tiff		11	on_reward	Reward.script
+2016-01-29 14:33:41.336 +0900	EndTestCase		(Duration:"14.058183", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 14:33:27 +0900", Successes:"1", TestCase:"Reward.script", Warnings:"0")
+2016-01-29 14:33:41.402 +0900	SUCCESS		Execution Time 0:00:14 Reward.script

@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-02-04 12:52:22.843 +0900,"Failure",0:00:00,1,0,0,"20160204_125222.843/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'dorun'",0
+2016-02-04 16:00:52.577 +0900,"Success",0:00:00,0,0,0,"20160204_160052.577/LogFile.txt","","",1
+2016-02-04 16:07:49.639 +0900,"Success",0:00:01,0,0,0,"20160204_160749.639/LogFile.txt","","",1
+2016-02-04 16:08:44.681 +0900,"Success",0:00:01,0,0,0,"20160204_160844.681/LogFile.txt","","",1
+2016-02-04 16:09:43.655 +0900,"Success",0:00:03,0,0,0,"20160204_160943.655/LogFile.txt","","",1
+2016-02-04 16:11:02.090 +0900,"Success",0:00:03,0,0,0,"20160204_161102.090/LogFile.txt","","",1

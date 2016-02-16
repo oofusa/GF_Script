@@ -1,0 +1,24 @@
+﻿2016-02-04 15:30:54.895 +0900	START		Running Main.script
+2016-02-04 15:30:55.247 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_XperiaZ3.script
+2016-02-04 15:30:56.308 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-04 15:30:56.431 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-04 15:30:59.525 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-04 15:31:02.621 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-04 15:31:05.742 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-04 15:31:08.847 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-04 15:31:17.045 +0900	imagefound	GFAppIcon	Unable to Find Image GFAppIcon	7	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:17.309 +0900	swipeleft		Swiped left from (980, 960) to (108, 960)	10	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:27.104 +0900	imagefound	GFAppIcon	Unable to Find Image GFAppIcon	7	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:27.374 +0900	swipeleft		Swiped left from (980, 960) to (108, 960)	10	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:35.525 +0900	imagefound	GFAppIcon	Unable to Find Image GFAppIcon	7	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:35.800 +0900	swipeleft		Swiped left from (980, 960) to (108, 960)	10	function_findapp	Device_XperiaZ3.script
+2016-02-04 15:31:38.905 +0900	tap		at current mouse point (108, 960)	5	on_dorun	TestRunner.script
+2016-02-04 15:31:45.919 +0900	Exception	AppIcon	Could Not Open Image: AppIcon	2	on_login	BasicTestCase.script
+2016-02-04 15:31:45.998 +0900	Log		error:BasicTestSuite,BasicTestCase,login,False	2	on_write	LogUtil.script
+2016-02-04 15:31:47.546 +0900	capturescreen	BasicTestSuite_BasicTestCase_login__476260306.033.tiff		3	on_capture	CaptureUtil.script
+2016-02-04 15:31:47.552 +0900	Log		Runtime Error at line 2: File Not Found - tap Error - Could Not Open Image: AppIcon	14	function_start	TestRunner.script
+2016-02-04 15:31:47.677 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-04 15:31:50.771 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-04 15:31:53.869 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-04 15:31:57.094 +0900	EndTestCase		(Duration:"62.19733", Errors:"0", Exceptions:"1", StartTime:"2016-02-04 15:30:54 +0900", Successes:"1", TestCase:"Main.script", Warnings:"0")
+2016-02-04 15:31:57.166 +0900	SUCCESS		Execution Time 0:01:02 Main.script

@@ -1,0 +1,6 @@
+﻿2016-01-29 17:54:58.996 +0900	START		Running GameStart.script
+2016-01-29 17:54:59.769 +0900	tap	homeicon	at (137, 611)	1	on_gamestart	GameStart.script
+2016-01-29 17:55:07.382 +0900	imagefound	Start	found at (534, 1361)	4	on_gamestart	GameStart.script
+2016-01-29 17:55:07.468 +0900	tap		at (534, 1361)	5	on_gamestart	GameStart.script
+2016-01-29 17:55:07.725 +0900	EndTestCase		(Duration:"8.727164", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:54:58 +0900", Successes:"1", TestCase:"GameStart.script", Warnings:"0")
+2016-01-29 17:55:07.755 +0900	SUCCESS		Execution Time 0:00:08 GameStart.script

@@ -1,0 +1,18 @@
+﻿2016-01-28 15:41:59.441 +0900	START		Running prepareTest.script
+2016-01-28 15:42:00.218 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 15:42:06.216 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 15:42:06.302 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 15:42:08.919 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 15:42:12.094 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 15:42:17.425 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 15:42:18.041 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 15:42:18.124 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 15:42:19.621 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 15:42:19.708 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 15:42:20.740 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 15:42:22.780 +0900	tap	MainMenu	at (923, 307)	25	on_preparetest	prepareTest.script
+2016-01-28 15:42:25.722 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 15:42:30.924 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 15:43:00.164 +0900	Exception	MainMenuOnHeaderBar	No Image Found On Screen: "MainMenuOnHeaderBar"	30	on_preparetest	prepareTest.script
+2016-01-28 15:43:00.245 +0900	EndTestCase		(Duration:"60.801675", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:41:59 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:43:00.246 +0900	ABORTED		Execution Time 0:01:00 prepareTest.script

@@ -1,0 +1,11 @@
+﻿2016-02-01 14:27:47.592 +0900	START		Running Ivent.script
+2016-02-01 14:27:48.707 +0900	imagefound	iventbtn	found at (787, 302)	1	on_ivent	Ivent.script
+2016-02-01 14:27:48.793 +0900	tap		at (787, 302)	2	on_ivent	Ivent.script
+2016-02-01 14:27:48.794 +0900	Log		テスト勉強	3	on_ivent	Ivent.script
+2016-02-01 14:27:48.797 +0900	Log		イベント	3	on_ivent	Ivent.script
+2016-02-01 14:27:48.798 +0900	Log		True	3	on_ivent	Ivent.script
+2016-02-01 14:27:54.603 +0900	capturescreen	イベント画面.tiff		8	on_ivent	Ivent.script
+2016-02-01 14:28:00.053 +0900	imagefound	homebtn	found at (451, 162)	10	on_ivent	Ivent.script
+2016-02-01 14:28:00.145 +0900	tap		at (451, 162)	11	on_ivent	Ivent.script
+2016-02-01 14:28:00.289 +0900	EndTestCase		(Duration:"12.695214", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 14:27:47 +0900", Successes:"1", TestCase:"Ivent.script", Warnings:"0")
+2016-02-01 14:28:00.316 +0900	SUCCESS		Execution Time 0:00:12 Ivent.script

@@ -1,0 +1,7 @@
+﻿2016-02-01 18:08:38.671 +0900	START		Running PrepareTest.script
+2016-02-01 18:08:38.842 +0900	imagefound	MainMenu	found at (923, 304)	1	on_preparetest	PrepareTest.script
+2016-02-01 18:08:38.927 +0900	tap		at (923, 304)	2	on_preparetest	PrepareTest.script
+2016-02-01 18:08:44.863 +0900	imagefound	PrepareTest	found at (268, 626)	12	on_preparetest	PrepareTest.script
+2016-02-01 18:08:44.955 +0900	tap		at (268, 626)	13	on_preparetest	PrepareTest.script
+2016-02-01 18:08:50.118 +0900	EndTestCase		(Duration:"11.445279", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 18:08:38 +0900", Successes:"1", TestCase:"PrepareTest.script", Warnings:"0")
+2016-02-01 18:08:50.194 +0900	SUCCESS		Execution Time 0:00:11 PrepareTest.script

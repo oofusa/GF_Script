@@ -1,0 +1,4 @@
+﻿2016-01-29 17:52:55.726 +0900	START		Running prepareTestMainScript.script
+2016-01-29 17:53:10.609 +0900	Exception	MainMenu	No Image Found On Screen: "MainMenu"	3	on_preparetestmainscript	prepareTestMainScript.script
+2016-01-29 17:53:10.875 +0900	EndTestCase		(Duration:"15.146062", Errors:"1", Exceptions:"1", StartTime:"2016-01-29 17:52:55 +0900", Successes:"0", TestCase:"prepareTestMainScript.script", Warnings:"0")
+2016-01-29 17:53:10.877 +0900	ABORTED		Execution Time 0:00:15 prepareTestMainScript.script

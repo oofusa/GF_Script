@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="GameStart(First)">
+ <run>
+  <RunDate>2016-02-01 12:35:47.786 +0900</RunDate>
+  <Status>Failure</Status>
+  <Duration>14.907412</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160201_123547.786/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;wiat&#x27;</ErrorMessage>
+ </run>
+</runHistory>

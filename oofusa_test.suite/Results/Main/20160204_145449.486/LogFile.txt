@@ -1,0 +1,19 @@
+﻿2016-02-04 14:54:49.488 +0900	START		Running Main.script
+2016-02-04 14:54:49.865 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:54:50.902 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-04 14:54:51.013 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:54:54.108 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:54:57.206 +0900	tap		at (500, 1500)	5	function_init	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:00.311 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:03.407 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:06.416 +0900	Exception	GFAppIcon	Could Not Open Image: GFAppIcon	7	function_findapp	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:06.552 +0900	tap		at current mouse point (550, 1650)	5	on_dorun	TestRunner.script
+2016-02-04 14:55:41.844 +0900	Exception	AppIcon	No Image Found On Screen: "AppIcon"	2	on_login	BasicTestCase.script
+2016-02-04 14:55:42.061 +0900	Log		error:BasicTestSuite,BasicTestCase,login,False	2	on_write	LogUtil.script
+2016-02-04 14:55:42.630 +0900	capturescreen	BasicTestSuite_BasicTestCase_login__476258142.178.tiff		3	on_capture	CaptureUtil.script
+2016-02-04 14:55:42.635 +0900	Log		Runtime Error at line 2: Image Not Found - tap Error - No Image Found On Screen: "AppIcon"	14	function_start	TestRunner.script
+2016-02-04 14:55:42.847 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:45.952 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:49.046 +0900	tap		at (500, 1500)	5	function_init	Device_HTCJbutterflyHTL23.script
+2016-02-04 14:55:52.263 +0900	EndTestCase		(Duration:"62.773633", Errors:"0", Exceptions:"2", StartTime:"2016-02-04 14:54:49 +0900", Successes:"1", TestCase:"Main.script", Warnings:"0")
+2016-02-04 14:55:52.339 +0900	SUCCESS		Execution Time 0:01:02 Main.script

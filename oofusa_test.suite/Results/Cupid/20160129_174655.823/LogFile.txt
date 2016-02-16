@@ -1,0 +1,11 @@
+﻿2016-01-29 17:46:55.825 +0900	START		Running Cupid.script
+2016-01-29 17:46:56.953 +0900	imagefound	Cupid	found at (757, 1650)	1	on_cupid	Cupid.script
+2016-01-29 17:46:57.040 +0900	tap		at (757, 1650)	2	on_cupid	Cupid.script
+2016-01-29 17:46:57.042 +0900	Log		テスト勉強	3	on_cupid	Cupid.script
+2016-01-29 17:46:57.044 +0900	Log		キューピッド	3	on_cupid	Cupid.script
+2016-01-29 17:46:57.045 +0900	Log		True	3	on_cupid	Cupid.script
+2016-01-29 17:47:00.348 +0900	capturescreen	キューピッド.tiff		8	on_cupid	Cupid.script
+2016-01-29 17:47:05.639 +0900	imagefound	Returnbtn	found at (636, 156)	10	on_cupid	Cupid.script
+2016-01-29 17:47:05.724 +0900	tap		at (636, 156)	11	on_cupid	Cupid.script
+2016-01-29 17:47:10.989 +0900	EndTestCase		(Duration:"15.161793", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:46:55 +0900", Successes:"1", TestCase:"Cupid.script", Warnings:"0")
+2016-01-29 17:47:11.066 +0900	SUCCESS		Execution Time 0:00:15 Cupid.script

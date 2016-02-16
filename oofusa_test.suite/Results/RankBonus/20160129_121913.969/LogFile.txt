@@ -1,0 +1,6 @@
+﻿2016-01-29 12:19:13.971 +0900	START		Running RankBonus.script
+2016-01-29 12:19:14.779 +0900	swipeup	test	Swiped up from (526, 1248) to (526, 576)	1	on_rankbonus	RankBonus.script
+2016-01-29 12:19:15.710 +0900	swipeup	Episode	Swiped up from (211, 436) to (211, 576)	2	on_rankbonus	RankBonus.script
+2016-01-29 12:19:17.517 +0900	swipeup	HowToPlay	Swiped up from (325, 625) to (325, 576)	3	on_rankbonus	RankBonus.script
+2016-01-29 12:19:17.639 +0900	EndTestCase		(Duration:"3.66658", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 12:19:13 +0900", Successes:"1", TestCase:"RankBonus.script", Warnings:"0")
+2016-01-29 12:19:17.653 +0900	SUCCESS		Execution Time 0:00:03 RankBonus.script

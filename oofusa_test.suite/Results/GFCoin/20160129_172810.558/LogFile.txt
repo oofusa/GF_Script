@@ -1,0 +1,10 @@
+﻿2016-01-29 17:28:10.560 +0900	START		Running GFCoin.script
+2016-01-29 17:28:10.959 +0900	imagefound	GFCoin	found at (107, 1648)	1	on_gfcoin	GFCoin.script
+2016-01-29 17:28:11.047 +0900	tap		at (107, 1648)	2	on_gfcoin	GFCoin.script
+2016-01-29 17:28:11.049 +0900	Log		テスト勉強	3	on_gfcoin	GFCoin.script
+2016-01-29 17:28:11.050 +0900	Log		ガルフレコイン	3	on_gfcoin	GFCoin.script
+2016-01-29 17:28:11.051 +0900	Log		True	3	on_gfcoin	GFCoin.script
+2016-01-29 17:28:14.801 +0900	capturescreen	購買部.tiff		8	on_gfcoin	GFCoin.script
+2016-01-29 17:28:20.123 +0900	tap	Returnbtn	at (636, 156)	10	on_gfcoin	GFCoin.script
+2016-01-29 17:28:25.372 +0900	EndTestCase		(Duration:"14.81095", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:28:10 +0900", Successes:"1", TestCase:"GFCoin.script", Warnings:"0")
+2016-01-29 17:28:25.449 +0900	SUCCESS		Execution Time 0:00:14 GFCoin.script

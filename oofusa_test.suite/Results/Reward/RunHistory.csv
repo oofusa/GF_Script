@@ -1,0 +1,7 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-01-29 14:33:27.275 +0900,"Success",0:00:14,0,0,0,"20160129_143327.275/LogFile.txt","","",1
+2016-02-01 16:20:53.716 +0900,"Failure",0:00:00,1,0,0,"20160201_162053.716/LogFile.txt","","SenseTalk Compiler Exception -- in reward:\nSyntax Error at line 6: Syntax Error - can't understand "")"" at or near character 175",0
+2016-02-01 16:23:04.912 +0900,"Success",0:00:20,0,0,0,"20160201_162304.912/LogFile.txt","","",1
+2016-02-01 16:25:23.690 +0900,"Success",0:00:20,0,0,0,"20160201_162523.690/LogFile.txt","","",1
+2016-02-01 16:27:27.929 +0900,"Success",0:00:26,0,0,0,"20160201_162727.929/LogFile.txt","","",1
+2016-02-01 16:30:17.996 +0900,"Success",0:00:25,0,0,0,"20160201_163017.996/LogFile.txt","","",1

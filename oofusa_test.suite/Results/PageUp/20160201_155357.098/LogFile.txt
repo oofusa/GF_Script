@@ -1,0 +1,49 @@
+﻿2016-02-01 15:53:57.099 +0900	START		Running PageUp.script
+2016-02-01 15:53:58.456 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:54:01.719 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:54:04.988 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:54:08.248 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:54:12.201 +0900	imagefound	PageUp	found at (538, 303)	11	on_pageup	PageUp.script
+2016-02-01 15:54:12.292 +0900	tap		at (538, 303)	12	on_pageup	PageUp.script
+2016-02-01 15:54:12.294 +0900	Log		テスト勉強	13	on_pageup	PageUp.script
+2016-02-01 15:54:12.295 +0900	Log		ページ上部へ	13	on_pageup	PageUp.script
+2016-02-01 15:54:12.297 +0900	Log		True	13	on_pageup	PageUp.script
+2016-02-01 15:54:18.398 +0900	capturescreen	ページ上部.tiff		31	on_pageup	PageUp.script
+2016-02-01 15:54:24.641 +0900	swipeup	test	Swiped up from (526, 1358) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:54:27.903 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:54:31.163 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:54:34.431 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:54:38.363 +0900	imagefound	PageUp	found at (538, 354)	11	on_pageup	PageUp.script
+2016-02-01 15:54:38.446 +0900	tap		at (538, 354)	12	on_pageup	PageUp.script
+2016-02-01 15:54:38.448 +0900	Log		テスト勉強	13	on_pageup	PageUp.script
+2016-02-01 15:54:38.449 +0900	Log		ページ上部へ	13	on_pageup	PageUp.script
+2016-02-01 15:54:38.451 +0900	Log		True	13	on_pageup	PageUp.script
+2016-02-01 15:54:44.528 +0900	capturescreen	ページ上部.tiff		31	on_pageup	PageUp.script
+2016-02-01 15:54:50.775 +0900	swipeup	test	Swiped up from (526, 1358) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:54:54.044 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:54:57.297 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:55:00.561 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:55:04.502 +0900	imagefound	PageUp	found at (538, 1032)	11	on_pageup	PageUp.script
+2016-02-01 15:55:04.593 +0900	tap		at (538, 1032)	12	on_pageup	PageUp.script
+2016-02-01 15:55:04.595 +0900	Log		テスト勉強	13	on_pageup	PageUp.script
+2016-02-01 15:55:04.596 +0900	Log		ページ上部へ	13	on_pageup	PageUp.script
+2016-02-01 15:55:04.597 +0900	Log		True	13	on_pageup	PageUp.script
+2016-02-01 15:55:10.717 +0900	capturescreen	ページ上部.tiff		31	on_pageup	PageUp.script
+2016-02-01 15:55:16.944 +0900	swipeup	test	Swiped up from (526, 1358) to (526, 576)	2	on_pageup	PageUp.script
+2016-02-01 15:55:20.195 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	4	on_pageup	PageUp.script
+2016-02-01 15:55:23.442 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	6	on_pageup	PageUp.script
+2016-02-01 15:55:26.703 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	8	on_pageup	PageUp.script
+2016-02-01 15:55:39.973 +0900	imagefound	PageUp	Unable to Find Image PageUp	11	on_pageup	PageUp.script
+2016-02-01 15:55:39.974 +0900	Log		テスト勉強	15	on_pageup	PageUp.script
+2016-02-01 15:55:39.975 +0900	Log		ページ上部へ	15	on_pageup	PageUp.script
+2016-02-01 15:55:40.023 +0900	Log		False	15	on_pageup	PageUp.script
+2016-02-01 15:55:45.135 +0900	imagefound	AGPfooter	Unable to Find Image AGPfooter	16	on_pageup	PageUp.script
+2016-02-01 15:55:45.293 +0900	imagefound	Episode2	found at (673, 752)	19	on_pageup	PageUp.script
+2016-02-01 15:55:45.361 +0900	swipeup		Swiped up from (673, 752) to (673, 576)	20	on_pageup	PageUp.script
+2016-02-01 15:55:56.293 +0900	imagefound	PageUp	Unable to Find Image PageUp	23	on_pageup	PageUp.script
+2016-02-01 15:55:56.294 +0900	Log		テスト勉強	27	on_pageup	PageUp.script
+2016-02-01 15:55:56.296 +0900	Log		ページ上部へ	27	on_pageup	PageUp.script
+2016-02-01 15:55:56.347 +0900	Log		False	27	on_pageup	PageUp.script
+2016-02-01 15:56:02.414 +0900	capturescreen	ページ上部.tiff		31	on_pageup	PageUp.script
+2016-02-01 15:56:04.529 +0900	EndTestCase		(Duration:"127.427888", Errors:"1", Exceptions:"0", StartTime:"2016-02-01 15:53:57 +0900", Successes:"0", TestCase:"PageUp.script", Warnings:"0")
+2016-02-01 15:56:04.530 +0900	ABORTED		Execution Time 0:02:07 PageUp.script

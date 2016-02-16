@@ -1,0 +1,12 @@
+﻿2016-02-01 17:46:54.859 +0900	START		Running Episode.script
+2016-02-01 17:46:55.212 +0900	swipeup		Swiped up from (540, 1344) to (540, 576)	1	on_episode	Episode.script
+2016-02-01 17:47:00.577 +0900	imagefound	Episode	found at (211, 1226)	3	on_episode	Episode.script
+2016-02-01 17:47:00.661 +0900	tap		at (211, 1226)	4	on_episode	Episode.script
+2016-02-01 17:47:00.662 +0900	Log		テスト勉強	5	on_episode	Episode.script
+2016-02-01 17:47:00.664 +0900	Log		エピソード	5	on_episode	Episode.script
+2016-02-01 17:47:00.665 +0900	Log		True	5	on_episode	Episode.script
+2016-02-01 17:47:06.792 +0900	capturescreen	エピソード画面.tiff		10	on_episode	Episode.script
+2016-02-01 17:47:12.523 +0900	imagefound	Returnbtn	found at (636, 156)	13	on_episode	Episode.script
+2016-02-01 17:47:12.615 +0900	tap		at (636, 156)	14	on_episode	Episode.script
+2016-02-01 17:47:17.765 +0900	EndTestCase		(Duration:"22.903786", Errors:"0", Exceptions:"0", StartTime:"2016-02-01 17:46:54 +0900", Successes:"1", TestCase:"Episode.script", Warnings:"0")
+2016-02-01 17:47:17.842 +0900	SUCCESS		Execution Time 0:00:22 Episode.script

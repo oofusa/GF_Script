@@ -1,0 +1,4 @@
+﻿2016-01-28 15:33:57.558 +0900	START		Running prepareTest.script
+2016-01-28 15:34:12.080 +0900	Exception	homeicon	No Image Found On Screen: "homeicon"	1	on_preparetest	prepareTest.script
+2016-01-28 15:34:12.154 +0900	EndTestCase		(Duration:"14.594246", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:33:57 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:34:12.155 +0900	ABORTED		Execution Time 0:00:14 prepareTest.script

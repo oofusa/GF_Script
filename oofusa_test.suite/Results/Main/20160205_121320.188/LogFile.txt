@@ -1,0 +1,21 @@
+﻿2016-02-05 12:13:20.189 +0900	START		Running Main.script
+2016-02-05 12:13:20.569 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_XperiaZ3.script
+2016-02-05 12:13:21.618 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 12:13:21.726 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:13:24.830 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 12:13:27.924 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 12:13:31.046 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:13:34.144 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 12:13:37.708 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 12:13:37.878 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 12:13:50.535 +0900	imagefound	BasicTestCase/GameStart	found at (528, 886)	2	on_login	BasicTestCase.script
+2016-02-05 12:13:50.621 +0900	tap		at (528, 886)	3	on_login	BasicTestCase.script
+2016-02-05 12:13:53.624 +0900	Exception	BasicTestCase/DoLogin	Could Not Open Image: BasicTestCase/DoLogin	7	on_login	BasicTestCase.script
+2016-02-05 12:13:53.720 +0900	Log		error:BasicTestSuite,BasicTestCase,login,False	2	on_write	LogUtil.script
+2016-02-05 12:13:54.322 +0900	capturescreen	BasicTestSuite_BasicTestCase_login__476334833.754.tiff		3	on_capture	CaptureUtil.script
+2016-02-05 12:13:54.329 +0900	Log		Runtime Error at line 7: File Not Found - imagefound Error - Could Not Open Image: BasicTestCase/DoLogin	14	function_start	TestRunner.script
+2016-02-05 12:13:54.495 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:13:57.595 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 12:14:00.689 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 12:14:03.966 +0900	EndTestCase		(Duration:"43.774965", Errors:"0", Exceptions:"1", StartTime:"2016-02-05 12:13:20 +0900", Successes:"1", TestCase:"Main.script", Warnings:"0")
+2016-02-05 12:14:04.034 +0900	SUCCESS		Execution Time 0:00:43 Main.script

@@ -1,0 +1,11 @@
+﻿2016-01-29 17:42:51.608 +0900	START		Running Battle.script
+2016-01-29 17:42:51.913 +0900	imagefound	Battle	found at (545, 1644)	1	on_battle	Battle.script
+2016-01-29 17:42:52.005 +0900	tap		at (545, 1644)	2	on_battle	Battle.script
+2016-01-29 17:42:52.090 +0900	Log		テスト勉強	3	on_battle	Battle.script
+2016-01-29 17:42:52.092 +0900	Log		バトル	3	on_battle	Battle.script
+2016-01-29 17:42:52.094 +0900	Log		True	3	on_battle	Battle.script
+2016-01-29 17:42:56.002 +0900	capturescreen	バトル.tiff		8	on_battle	Battle.script
+2016-01-29 17:43:01.853 +0900	imagefound	Returnbtn	found at (636, 156)	10	on_battle	Battle.script
+2016-01-29 17:43:01.944 +0900	tap		at (636, 156)	11	on_battle	Battle.script
+2016-01-29 17:43:07.202 +0900	EndTestCase		(Duration:"15.591389", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 17:42:51 +0900", Successes:"1", TestCase:"Battle.script", Warnings:"0")
+2016-01-29 17:43:07.280 +0900	SUCCESS		Execution Time 0:00:15 Battle.script

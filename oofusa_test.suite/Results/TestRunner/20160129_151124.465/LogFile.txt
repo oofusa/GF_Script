@@ -1,0 +1,5 @@
+﻿2016-01-29 15:11:24.467 +0900	START		Running Untitled.script
+2016-01-29 15:11:25.498 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_untitled	Untitled.script
+2016-01-29 15:11:29.352 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 845) to (321, 576)	3	on_untitled	Untitled.script
+2016-01-29 15:11:29.558 +0900	EndTestCase		(Duration:"5.084593", Errors:"0", Exceptions:"0", StartTime:"2016-01-29 15:11:24 +0900", Successes:"1", TestCase:"Untitled.script", Warnings:"0")
+2016-01-29 15:11:29.576 +0900	SUCCESS		Execution Time 0:00:05 Untitled.script

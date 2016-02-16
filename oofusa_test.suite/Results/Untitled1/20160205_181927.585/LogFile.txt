@@ -1,0 +1,4 @@
+﻿2016-02-05 18:19:27.587 +0900	START		Running Untitled1.script
+2016-02-05 18:19:28.261 +0900	tap	TestCasePrepareTest02/HeaderImage	at (174, 484)	1	on_untitled1	Untitled1.script
+2016-02-05 18:19:28.522 +0900	EndTestCase		(Duration:"0.933885", Errors:"0", Exceptions:"0", StartTime:"2016-02-05 18:19:27 +0900", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
+2016-02-05 18:19:28.544 +0900	SUCCESS		Execution Time 0:00:00 Untitled1.script

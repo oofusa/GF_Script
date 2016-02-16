@@ -1,0 +1,21 @@
+﻿2016-01-28 15:46:16.436 +0900	START		Running prepareTest.script
+2016-01-28 15:46:16.855 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 15:46:24.660 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 15:46:24.752 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 15:46:27.249 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 15:46:29.830 +0900	tap	PrepareTest	at (868, 452)	9	on_preparetest	prepareTest.script
+2016-01-28 15:46:34.954 +0900	imagefound	PrepareTestHeader	Unable to Find Image PrepareTestHeader	11	on_preparetest	prepareTest.script
+2016-01-28 15:46:35.591 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 15:46:35.681 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 15:46:37.487 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 15:46:37.572 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 15:46:38.598 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 15:46:40.643 +0900	tap	MainMenu	at (923, 307)	25	on_preparetest	prepareTest.script
+2016-01-28 15:46:42.508 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 15:46:47.791 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 15:46:53.611 +0900	tap	homebtn	at (451, 162)	30	on_preparetest	prepareTest.script
+2016-01-28 15:46:55.646 +0900	tap	MainMenu	at (923, 307)	31	on_preparetest	prepareTest.script
+2016-01-28 15:46:58.049 +0900	tap	PrepareTest	at (868, 455)	32	on_preparetest	prepareTest.script
+2016-01-28 15:47:23.982 +0900	Exception	MainMenu	No Image Found On Screen: "MainMenu"	34	on_preparetest	prepareTest.script
+2016-01-28 15:47:24.060 +0900	EndTestCase		(Duration:"67.622167", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:46:16 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:47:24.295 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "MainMenu" -- Execution Time 0:01:07 prepareTest.script

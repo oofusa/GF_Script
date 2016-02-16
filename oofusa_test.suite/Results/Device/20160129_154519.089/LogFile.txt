@@ -1,0 +1,15 @@
+﻿2016-01-29 15:45:19.090 +0900	START		Running Device.script
+2016-01-29 15:45:20.480 +0900	swipeup	test	Swiped up from (526, 1360) to (526, 576)	1	on_device	Device.script
+2016-01-29 15:45:24.350 +0900	swipeup	HowToPlaySwipe	Swiped up from (321, 822) to (321, 576)	3	on_device	Device.script
+2016-01-29 15:45:28.565 +0900	swipeup	SwipeImage1	Swiped up from (496, 1198) to (496, 576)	5	on_device	Device.script
+2016-01-29 15:45:32.585 +0900	swipeup	SwipeImage2	Swiped up from (574, 1354) to (574, 576)	7	on_device	Device.script
+2016-01-29 15:45:36.289 +0900	imagefound	Device	found at (506, 1133)	10	on_device	Device.script
+2016-01-29 15:45:36.377 +0900	tap		at (506, 1133)	11	on_device	Device.script
+2016-01-29 15:45:36.379 +0900	Log		テスト勉強	12	on_device	Device.script
+2016-01-29 15:45:36.381 +0900	Log		推奨端末について	12	on_device	Device.script
+2016-01-29 15:45:36.382 +0900	Log		True	12	on_device	Device.script
+2016-01-29 15:45:42.612 +0900	swipeup	SwipeImage3	Swiped up from (244, 1306) to (244, 576)	17	on_device	Device.script
+2016-01-29 15:45:46.433 +0900	capturescreen	推奨端末について.tiff		19	on_device	Device.script
+2016-01-29 15:46:21.708 +0900	Exception	Device	No Image Found On Screen: "Device"	22	on_device	Device.script
+2016-01-29 15:46:21.937 +0900	EndTestCase		(Duration:"62.845109", Errors:"1", Exceptions:"1", StartTime:"2016-01-29 15:45:19 +0900", Successes:"0", TestCase:"Device.script", Warnings:"0")
+2016-01-29 15:46:22.099 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "Device" -- Execution Time 0:01:02 Device.script

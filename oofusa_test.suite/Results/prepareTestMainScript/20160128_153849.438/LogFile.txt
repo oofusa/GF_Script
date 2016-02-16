@@ -1,0 +1,20 @@
+﻿2016-01-28 15:38:49.440 +0900	START		Running prepareTest.script
+2016-01-28 15:38:49.750 +0900	tap	homeicon	at (137, 611)	1	on_preparetest	prepareTest.script
+2016-01-28 15:38:56.588 +0900	imagefound	Start	found at (534, 1361)	4	on_preparetest	prepareTest.script
+2016-01-28 15:38:56.672 +0900	tap		at (534, 1361)	5	on_preparetest	prepareTest.script
+2016-01-28 15:38:59.556 +0900	tap	MainMenu	at (923, 307)	8	on_preparetest	prepareTest.script
+2016-01-28 15:39:01.593 +0900	tap	PrepareTest	at (868, 455)	9	on_preparetest	prepareTest.script
+2016-01-28 15:39:06.692 +0900	imagefound	PrepareTestHeader	found at (508, 430)	11	on_preparetest	prepareTest.script
+2016-01-28 15:39:06.918 +0900	capturescreen	テスト勉強Top.tiff		12	on_preparetest	prepareTest.script
+2016-01-28 15:39:07.000 +0900	imagefound	VoiceON	found at (99, 305)	15	on_preparetest	prepareTest.script
+2016-01-28 15:39:07.083 +0900	tap		at (99, 305)	16	on_preparetest	prepareTest.script
+2016-01-28 15:39:07.856 +0900	imagefound	VoiceOFF	found at (99, 302)	19	on_preparetest	prepareTest.script
+2016-01-28 15:39:07.940 +0900	tap		at (99, 302)	20	on_preparetest	prepareTest.script
+2016-01-28 15:39:08.954 +0900	tap	mypagebtn	at (588, 306)	23	on_preparetest	prepareTest.script
+2016-01-28 15:39:10.801 +0900	tap	MainMenu	at (923, 307)	25	on_preparetest	prepareTest.script
+2016-01-28 15:39:13.076 +0900	tap	PrepareTest	at (868, 455)	26	on_preparetest	prepareTest.script
+2016-01-28 15:39:18.730 +0900	tap	iventbtn	at (787, 302)	28	on_preparetest	prepareTest.script
+2016-01-28 15:39:28.964 +0900	imagefound	MainMenu	Unable to Find Image MainMenu	30	on_preparetest	prepareTest.script
+2016-01-28 15:39:54.300 +0900	Exception	PrepareTest	No Image Found On Screen: "PrepareTest"	33	on_preparetest	prepareTest.script
+2016-01-28 15:39:54.379 +0900	EndTestCase		(Duration:"64.937866", Errors:"1", Exceptions:"1", StartTime:"2016-01-28 15:38:49 +0900", Successes:"0", TestCase:"prepareTest.script", Warnings:"0")
+2016-01-28 15:39:54.532 +0900	FAILURE	Screen_Error.tiff	Image Not Found tap Error - No Image Found On Screen: "PrepareTest" -- Execution Time 0:01:04 prepareTest.script

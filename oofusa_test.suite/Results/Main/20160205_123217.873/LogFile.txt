@@ -1,0 +1,23 @@
+﻿2016-02-05 12:32:17.874 +0900	START		Running Main.script
+2016-02-05 12:32:18.278 +0900	swipedown		Swiped down from (100, 640) to (100, 1344)	2	function_unlock	Device_XperiaZ3.script
+2016-02-05 12:32:19.321 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 12:32:19.433 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:32:22.525 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 12:32:25.624 +0900	tap		at (500, 1500)	5	function_init	Device_XperiaZ3.script
+2016-02-05 12:32:28.729 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:32:31.824 +0900	tap		at (550, 1650)	2	on_tapappbtn	Device_XperiaZ3.script
+2016-02-05 12:32:35.537 +0900	imagefound	GFAppIcon	found at (162, 279)	7	function_findapp	Device_XperiaZ3.script
+2016-02-05 12:32:35.654 +0900	tap		at (162, 279)	5	on_dorun	TestRunner.script
+2016-02-05 12:32:43.276 +0900	imagefound	BasicTestCase/GameStart	found at (528, 886)	2	on_login	BasicTestCase.script
+2016-02-05 12:32:43.357 +0900	tap		at (528, 886)	3	on_login	BasicTestCase.script
+2016-02-05 12:32:49.416 +0900	imagefound	BasicTestCase/DoLogin	found at (659, 1315)	8	on_login	BasicTestCase.script
+2016-02-05 12:32:49.505 +0900	tap		at (659, 1315)	9	on_login	BasicTestCase.script
+2016-02-05 12:32:54.831 +0900	imagefound	BasicTestCase/DoLogin	found at (659, 1315)	8	on_login	BasicTestCase.script
+2016-02-05 12:32:54.917 +0900	tap		at (659, 1315)	9	on_login	BasicTestCase.script
+2016-02-05 12:33:03.587 +0900	imagefound	GoToSchool	Unable to Find Image GoToSchool	14	on_login	BasicTestCase.script
+2016-02-05 12:33:03.600 +0900	Log		result:Basic,Basic,login,False	2	on_write	LogUtil.script
+2016-02-05 12:33:13.859 +0900	set		SWIPESPEED = 40	2	on_dorun	TestRunner.script
+2016-02-05 12:33:13.958 +0900	tap		at (550, 1850)	2	on_taphomebtn	Device_XperiaZ3.script
+2016-02-05 12:33:17.053 +0900	tap		at (850, 1845)	2	on_taphistorybtn	Device_XperiaZ3.script
+2016-02-05 12:33:19.525 +0900	EndTestCase		(Duration:"61.649623", Errors:"1", Exceptions:"0", StartTime:"2016-02-05 12:32:17 +0900", Successes:"0", TestCase:"Main.script", Warnings:"0")
+2016-02-05 12:33:19.526 +0900	ABORTED		Execution Time 0:01:01 Main.script
