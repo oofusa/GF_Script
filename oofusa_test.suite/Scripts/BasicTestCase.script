@@ -1,4 +1,5 @@
-﻿to login
+﻿//ログイン処理
+to login
 	if ImageFound(Image:"BasicTestCase/GameStart" , WaitFor:5)
 		tap FoundImageLocation()
 		wait 3

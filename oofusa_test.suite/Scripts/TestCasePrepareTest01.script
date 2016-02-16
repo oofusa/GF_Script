@@ -1,4 +1,5 @@
-﻿to voiceCheck
+﻿//ヘッダー処理
+to voiceCheck
 	TestCommon.menu "TestCasePrepareTest01/PrepareTestBtn"
 	TestCommon.result testcommonHeader.voiceCheck(),"エリア選択（テスト勉強）", "VOICEタップ", "On・Off切り替え",1
 end voiceCheck
